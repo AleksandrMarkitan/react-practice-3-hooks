@@ -1,0 +1,3128 @@
+[
+  {
+    "name": "Portland Trail Blazers vs. Phoenix Suns",
+    "type": "event",
+    "id": "vvG1HZ92maYSm6",
+    "test": false,
+    "url": "https://www.ticketmaster.com/portland-trail-blazers-vs-phoenix-suns-portland-oregon-10-21-2022/event/0F005CFB89C33B87",
+    "locale": "en-us",
+    "images": [
+      {
+        "ratio": "16_9",
+        "url": "https://s1.ticketm.net/dam/a/aaa/bb617cef-64aa-4f7a-9640-c261f4a3eaaa_1759311_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+        "width": 2048,
+        "height": 1152,
+        "fallback": false
+      },
+      {
+        "ratio": "16_9",
+        "url": "https://s1.ticketm.net/dam/a/aaa/bb617cef-64aa-4f7a-9640-c261f4a3eaaa_1759311_EVENT_DETAIL_PAGE_16_9.jpg",
+        "width": 205,
+        "height": 115,
+        "fallback": false
+      },
+      {
+        "ratio": "3_2",
+        "url": "https://s1.ticketm.net/dam/a/aaa/bb617cef-64aa-4f7a-9640-c261f4a3eaaa_1759311_ARTIST_PAGE_3_2.jpg",
+        "width": 305,
+        "height": 203,
+        "fallback": false
+      },
+      {
+        "ratio": "3_2",
+        "url": "https://s1.ticketm.net/dam/a/aaa/bb617cef-64aa-4f7a-9640-c261f4a3eaaa_1759311_TABLET_LANDSCAPE_3_2.jpg",
+        "width": 1024,
+        "height": 683,
+        "fallback": false
+      },
+      {
+        "ratio": "3_2",
+        "url": "https://s1.ticketm.net/dam/a/aaa/bb617cef-64aa-4f7a-9640-c261f4a3eaaa_1759311_RETINA_PORTRAIT_3_2.jpg",
+        "width": 640,
+        "height": 427,
+        "fallback": false
+      },
+      {
+        "ratio": "16_9",
+        "url": "https://s1.ticketm.net/dam/a/aaa/bb617cef-64aa-4f7a-9640-c261f4a3eaaa_1759311_TABLET_LANDSCAPE_16_9.jpg",
+        "width": 1024,
+        "height": 576,
+        "fallback": false
+      },
+      {
+        "ratio": "16_9",
+        "url": "https://s1.ticketm.net/dam/a/aaa/bb617cef-64aa-4f7a-9640-c261f4a3eaaa_1759311_RETINA_LANDSCAPE_16_9.jpg",
+        "width": 1136,
+        "height": 639,
+        "fallback": false
+      },
+      {
+        "ratio": "16_9",
+        "url": "https://s1.ticketm.net/dam/a/aaa/bb617cef-64aa-4f7a-9640-c261f4a3eaaa_1759311_RECOMENDATION_16_9.jpg",
+        "width": 100,
+        "height": 56,
+        "fallback": false
+      },
+      {
+        "ratio": "4_3",
+        "url": "https://s1.ticketm.net/dam/a/aaa/bb617cef-64aa-4f7a-9640-c261f4a3eaaa_1759311_CUSTOM.jpg",
+        "width": 305,
+        "height": 225,
+        "fallback": false
+      },
+      {
+        "ratio": "16_9",
+        "url": "https://s1.ticketm.net/dam/a/aaa/bb617cef-64aa-4f7a-9640-c261f4a3eaaa_1759311_RETINA_PORTRAIT_16_9.jpg",
+        "width": 640,
+        "height": 360,
+        "fallback": false
+      }
+    ],
+    "sales": {
+      "public": {
+        "startDateTime": "2022-08-25T17:00:00Z",
+        "startTBD": false,
+        "startTBA": false,
+        "endDateTime": "2022-10-22T03:00:00Z"
+      },
+      "presales": [
+        {
+          "startDateTime": "2022-08-24T17:00:00Z",
+          "endDateTime": "2022-08-25T06:59:00Z",
+          "name": "Influencer Presale"
+        },
+        {
+          "startDateTime": "2022-08-24T18:00:00Z",
+          "endDateTime": "2022-08-25T06:59:00Z",
+          "name": "NBA Presale"
+        },
+        {
+          "startDateTime": "2022-08-24T18:00:00Z",
+          "endDateTime": "2022-08-25T06:59:00Z",
+          "name": "Ticketmaster Presale"
+        },
+        {
+          "startDateTime": "2022-08-24T18:00:00Z",
+          "endDateTime": "2022-08-25T06:59:00Z",
+          "name": "Email Signup Presale"
+        },
+        {
+          "startDateTime": "2022-08-24T18:00:00Z",
+          "endDateTime": "2022-08-25T06:59:00Z",
+          "name": "Kids Club Presale"
+        }
+      ]
+    },
+    "dates": {
+      "start": {
+        "localDate": "2022-10-21",
+        "localTime": "19:00:00",
+        "dateTime": "2022-10-22T02:00:00Z",
+        "dateTBD": false,
+        "dateTBA": false,
+        "timeTBA": false,
+        "noSpecificTime": false
+      },
+      "timezone": "America/Los_Angeles",
+      "status": {
+        "code": "onsale"
+      },
+      "spanMultipleDays": false
+    },
+    "classifications": [
+      {
+        "primary": true,
+        "segment": {
+          "id": "KZFzniwnSyZfZ7v7nE",
+          "name": "Sports"
+        },
+        "genre": {
+          "id": "KnvZfZ7vAde",
+          "name": "Basketball"
+        },
+        "subGenre": {
+          "id": "KZazBEonSMnZfZ7vFJA",
+          "name": "NBA"
+        },
+        "type": {
+          "id": "KZAyXgnZfZ7v7l1",
+          "name": "Group"
+        },
+        "subType": {
+          "id": "KZFzBErXgnZfZ7vA7d",
+          "name": "Team"
+        },
+        "family": false
+      }
+    ],
+    "promoter": {
+      "id": "695",
+      "name": "NBA REGULAR SEASON",
+      "description": "NBA REGULAR SEASON / NTL / USA"
+    },
+    "promoters": [
+      {
+        "id": "695",
+        "name": "NBA REGULAR SEASON",
+        "description": "NBA REGULAR SEASON / NTL / USA"
+      }
+    ],
+    "info": "Bags and full-length umbrellas are not allowed in the arena. Exclusions apply for medical bags, children's bags and clutches 5X8\" or smaller. Bag check is available.",
+    "pleaseNote": "This event is Mobile Only.",
+    "priceRanges": [
+      {
+        "type": "standard",
+        "currency": "USD",
+        "min": 24,
+        "max": 2500
+      }
+    ],
+    "products": [
+      {
+        "name": "East/West Garage Parking for Trail Blazers",
+        "id": "vvG1HZ92mw-A0I",
+        "url": "https://www.ticketmaster.com/eastwest-garage-parking-for-trail-blazers-portland-oregon-10-21-2022/event/0F005CFBB2845928",
+        "type": "Parking",
+        "classifications": [
+          {
+            "primary": true,
+            "segment": {
+              "id": "KZFzniwnSyZfZ7v7n1",
+              "name": "Miscellaneous"
+            },
+            "genre": {
+              "id": "KnvZfZ7v7ll",
+              "name": "Undefined"
+            },
+            "subGenre": {
+              "id": "KZazBEonSMnZfZ7vAv1",
+              "name": "Undefined"
+            },
+            "type": {
+              "id": "KZAyXgnZfZ7vAva",
+              "name": "Parking"
+            },
+            "subType": {
+              "id": "KZFzBErXgnZfZ7vAFe",
+              "name": "Parking"
+            },
+            "family": false
+          }
+        ]
+      },
+      {
+        "name": "PARKWHIZ - MODA CENTER",
+        "id": "vvG1HZ9ohH0JxM",
+        "url": "https://www.ticketmaster.com/parkwhiz-moda-center-portland-oregon-10-21-2022/event/0F005D16FC9268B7",
+        "type": "Upsell",
+        "classifications": [
+          {
+            "primary": true,
+            "segment": {
+              "id": "KZFzniwnSyZfZ7v7n1",
+              "name": "Miscellaneous"
+            },
+            "genre": {
+              "id": "KnvZfZ7v7ll",
+              "name": "Undefined"
+            },
+            "subGenre": {
+              "id": "KZazBEonSMnZfZ7vAv1",
+              "name": "Undefined"
+            },
+            "type": {
+              "id": "KZAyXgnZfZ7vAva",
+              "name": "Parking"
+            },
+            "subType": {
+              "id": "KZFzBErXgnZfZ7vAFe",
+              "name": "Parking"
+            },
+            "family": false
+          }
+        ]
+      }
+    ],
+    "seatmap": {
+      "staticUrl": "https://maps.ticketmaster.com/maps/geometry/3/event/0F005CFB89C33B87/staticImage?type=png&systemId=HOST"
+    },
+    "accessibility": {
+      "ticketLimit": 4
+    },
+    "ticketLimit": {
+      "info": "There is an overall four (4) ticket limit."
+    },
+    "ageRestrictions": {
+      "legalAgeEnforced": false
+    },
+    "ticketing": {
+      "safeTix": {
+        "enabled": true
+      }
+    },
+    "_links": {
+      "self": {
+        "href": "/discovery/v2/events/vvG1HZ92maYSm6?locale=en-us"
+      },
+      "attractions": [
+        {
+          "href": "/discovery/v2/attractions/K8vZ9171oZV?locale=en-us"
+        },
+        {
+          "href": "/discovery/v2/attractions/K8vZ9171oZf?locale=en-us"
+        }
+      ],
+      "venues": [
+        {
+          "href": "/discovery/v2/venues/KovZpa6MXe?locale=en-us"
+        }
+      ]
+    },
+    "_embedded": {
+      "venues": [
+        {
+          "name": "Moda Center",
+          "type": "venue",
+          "id": "KovZpa6MXe",
+          "test": false,
+          "url": "https://www.ticketmaster.com/moda-center-tickets-portland/venue/123078",
+          "locale": "en-us",
+          "images": [
+            {
+              "ratio": "16_9",
+              "url": "https://s1.ticketm.net/dbimages/21727v.jpg",
+              "width": 205,
+              "height": 115,
+              "fallback": false
+            }
+          ],
+          "postalCode": "97227",
+          "timezone": "America/Los_Angeles",
+          "city": {
+            "name": "Portland"
+          },
+          "state": {
+            "name": "Oregon",
+            "stateCode": "OR"
+          },
+          "country": {
+            "name": "United States Of America",
+            "countryCode": "US"
+          },
+          "address": {
+            "line1": "One Center Court, Suite 100"
+          },
+          "location": {
+            "longitude": "-122.66645813",
+            "latitude": "45.53118896"
+          },
+          "markets": [
+            {
+              "name": "Portland and More",
+              "id": "37"
+            }
+          ],
+          "dmas": [
+            {
+              "id": 228
+            },
+            {
+              "id": 272
+            },
+            {
+              "id": 331
+            },
+            {
+              "id": 362
+            }
+          ],
+          "boxOfficeInfo": {
+            "phoneNumberDetail": "Box Office: (503) 797-9619 Group Sales: (503) 963-4400",
+            "openHoursDetail": "Monday - Friday: 10am - 5pm Saturday and Sunday hours vary.",
+            "acceptedPaymentDetail": "Cash, MasterCard, Visa, Discover and American Express.",
+            "willCallDetail": "Tickets held at will call can be picked up on the day of the performance at the box office beginning 2 hours prior to the event. The customer must present valid form of picture identification and the credit card used for purchase."
+          },
+          "parkingDetail": "On-site parking at the Garden Garage, the East/West Broadway Garages, and at all times for restaurant and retail parking at the One Center Court Garage. Parking may be purchased in advance at all Ticketmaster Ticket Center locations or by Charge-By-Phone: 800-745-3000.",
+          "accessibleSeatingDetail": "Accessible enhancements active.",
+          "generalInfo": {
+            "generalRule": "No flash cameras allowed inside. No audio or video recording devices allowed inside. No smoking inside the building. Bags and full-length umbrellas are not allowed in the arena. Exclusions apply for medical bags, children's bags and clutches 5X8\"\" or smaller. Bag check is available.",
+            "childRule": "Children under 2 are usually free, but must sit on a ticket holders lap. May vary with event."
+          },
+          "upcomingEvents": {
+            "_total": 80,
+            "ticketmaster": 80,
+            "_filtered": 0
+          },
+          "ada": {
+            "adaPhones": "800-877-7575",
+            "adaCustomCopy": "For all events sell using ADA enhancements.\n       4 accessible seat limit, if more seats are needed sell from \n       regular opens as close as possible.\n       Phone representatives, click on the Accessible Tab for each\n       ticket request.\n\n       1. Select WHEELCHAIR ACCESSIBLE from the menu for WHEELCHAIR\n          request only.\n       2. Select LMTMOB from the menu for LIMITED MOBILITY request only\n\n* Box office information is subject to change.",
+            "adaHours": "Monday-Saturday: 9 AM - 6 PM\nSunday: 12 PM - 6 PM"
+          },
+          "_links": {
+            "self": {
+              "href": "/discovery/v2/venues/KovZpa6MXe?locale=en-us"
+            }
+          }
+        }
+      ],
+      "attractions": [
+        {
+          "name": "Portland Trail Blazers",
+          "type": "attraction",
+          "id": "K8vZ9171oZV",
+          "test": false,
+          "url": "https://www.ticketmaster.com/portland-trail-blazers-tickets/artist/806009",
+          "locale": "en-us",
+          "externalLinks": {
+            "twitter": [
+              {
+                "url": "https://twitter.com/trailblazers"
+              }
+            ],
+            "wiki": [
+              {
+                "url": "https://en.wikipedia.org/wiki/Portland_Trail_Blazers"
+              }
+            ],
+            "facebook": [
+              {
+                "url": "https://www.facebook.com/trailblazers"
+              }
+            ],
+            "instagram": [
+              {
+                "url": "https://www.instagram.com/trailblazers/"
+              }
+            ],
+            "homepage": [
+              {
+                "url": "https://www.nba.com/blazers/"
+              }
+            ]
+          },
+          "aliases": ["portland trailblazers", "trailblazers"],
+          "images": [
+            {
+              "ratio": "16_9",
+              "url": "https://s1.ticketm.net/dam/a/aaa/bb617cef-64aa-4f7a-9640-c261f4a3eaaa_1759311_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+              "width": 2048,
+              "height": 1152,
+              "fallback": false
+            },
+            {
+              "ratio": "16_9",
+              "url": "https://s1.ticketm.net/dam/a/aaa/bb617cef-64aa-4f7a-9640-c261f4a3eaaa_1759311_EVENT_DETAIL_PAGE_16_9.jpg",
+              "width": 205,
+              "height": 115,
+              "fallback": false
+            },
+            {
+              "ratio": "3_2",
+              "url": "https://s1.ticketm.net/dam/a/aaa/bb617cef-64aa-4f7a-9640-c261f4a3eaaa_1759311_ARTIST_PAGE_3_2.jpg",
+              "width": 305,
+              "height": 203,
+              "fallback": false
+            },
+            {
+              "ratio": "3_2",
+              "url": "https://s1.ticketm.net/dam/a/aaa/bb617cef-64aa-4f7a-9640-c261f4a3eaaa_1759311_TABLET_LANDSCAPE_3_2.jpg",
+              "width": 1024,
+              "height": 683,
+              "fallback": false
+            },
+            {
+              "ratio": "3_2",
+              "url": "https://s1.ticketm.net/dam/a/aaa/bb617cef-64aa-4f7a-9640-c261f4a3eaaa_1759311_RETINA_PORTRAIT_3_2.jpg",
+              "width": 640,
+              "height": 427,
+              "fallback": false
+            },
+            {
+              "ratio": "16_9",
+              "url": "https://s1.ticketm.net/dam/a/aaa/bb617cef-64aa-4f7a-9640-c261f4a3eaaa_1759311_TABLET_LANDSCAPE_16_9.jpg",
+              "width": 1024,
+              "height": 576,
+              "fallback": false
+            },
+            {
+              "ratio": "16_9",
+              "url": "https://s1.ticketm.net/dam/a/aaa/bb617cef-64aa-4f7a-9640-c261f4a3eaaa_1759311_RETINA_LANDSCAPE_16_9.jpg",
+              "width": 1136,
+              "height": 639,
+              "fallback": false
+            },
+            {
+              "ratio": "16_9",
+              "url": "https://s1.ticketm.net/dam/a/aaa/bb617cef-64aa-4f7a-9640-c261f4a3eaaa_1759311_RECOMENDATION_16_9.jpg",
+              "width": 100,
+              "height": 56,
+              "fallback": false
+            },
+            {
+              "ratio": "4_3",
+              "url": "https://s1.ticketm.net/dam/a/aaa/bb617cef-64aa-4f7a-9640-c261f4a3eaaa_1759311_CUSTOM.jpg",
+              "width": 305,
+              "height": 225,
+              "fallback": false
+            },
+            {
+              "ratio": "16_9",
+              "url": "https://s1.ticketm.net/dam/a/aaa/bb617cef-64aa-4f7a-9640-c261f4a3eaaa_1759311_RETINA_PORTRAIT_16_9.jpg",
+              "width": 640,
+              "height": 360,
+              "fallback": false
+            }
+          ],
+          "classifications": [
+            {
+              "primary": true,
+              "segment": {
+                "id": "KZFzniwnSyZfZ7v7nE",
+                "name": "Sports"
+              },
+              "genre": {
+                "id": "KnvZfZ7vAde",
+                "name": "Basketball"
+              },
+              "subGenre": {
+                "id": "KZazBEonSMnZfZ7vFJA",
+                "name": "NBA"
+              },
+              "type": {
+                "id": "KZAyXgnZfZ7v7l1",
+                "name": "Group"
+              },
+              "subType": {
+                "id": "KZFzBErXgnZfZ7vA7d",
+                "name": "Team"
+              },
+              "family": false
+            }
+          ],
+          "upcomingEvents": {
+            "_total": 82,
+            "tmr": 8,
+            "ticketmaster": 74,
+            "_filtered": 0
+          },
+          "_links": {
+            "self": {
+              "href": "/discovery/v2/attractions/K8vZ9171oZV?locale=en-us"
+            }
+          }
+        },
+        {
+          "name": "Phoenix Suns",
+          "type": "attraction",
+          "id": "K8vZ9171oZf",
+          "test": false,
+          "url": "https://www.ticketmaster.com/phoenix-suns-tickets/artist/806004",
+          "locale": "en-us",
+          "externalLinks": {
+            "twitter": [
+              {
+                "url": "https://twitter.com/Suns"
+              }
+            ],
+            "wiki": [
+              {
+                "url": "https://en.wikipedia.org/wiki/Phoenix_Suns"
+              }
+            ],
+            "facebook": [
+              {
+                "url": "https://www.facebook.com/suns/"
+              }
+            ],
+            "instagram": [
+              {
+                "url": "https://www.instagram.com/suns/"
+              }
+            ],
+            "homepage": [
+              {
+                "url": "https://www.nba.com/suns/"
+              }
+            ]
+          },
+          "aliases": [
+            "phoenix",
+            "suns",
+            "phoenix suns exchange",
+            "phoenix suns team exchange",
+            "phoenix suns season ticket holders",
+            "phoenix suns season tix holders",
+            "phoenix suns ticket exchange",
+            "suns exchange",
+            "suns season ticket holders",
+            "suns season tix holders",
+            "suns team exchange",
+            "suns ticket exchange"
+          ],
+          "images": [
+            {
+              "ratio": "4_3",
+              "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_CUSTOM.jpg",
+              "width": 305,
+              "height": 225,
+              "fallback": false
+            },
+            {
+              "ratio": "16_9",
+              "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_RETINA_PORTRAIT_16_9.jpg",
+              "width": 640,
+              "height": 360,
+              "fallback": false
+            },
+            {
+              "ratio": "16_9",
+              "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+              "width": 2048,
+              "height": 1152,
+              "fallback": false
+            },
+            {
+              "ratio": "16_9",
+              "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_EVENT_DETAIL_PAGE_16_9.jpg",
+              "width": 205,
+              "height": 115,
+              "fallback": false
+            },
+            {
+              "ratio": "3_2",
+              "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_ARTIST_PAGE_3_2.jpg",
+              "width": 305,
+              "height": 203,
+              "fallback": false
+            },
+            {
+              "ratio": "16_9",
+              "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_TABLET_LANDSCAPE_16_9.jpg",
+              "width": 1024,
+              "height": 576,
+              "fallback": false
+            },
+            {
+              "ratio": "3_2",
+              "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_RETINA_PORTRAIT_3_2.jpg",
+              "width": 640,
+              "height": 427,
+              "fallback": false
+            },
+            {
+              "ratio": "3_2",
+              "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_TABLET_LANDSCAPE_3_2.jpg",
+              "width": 1024,
+              "height": 683,
+              "fallback": false
+            },
+            {
+              "ratio": "16_9",
+              "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_RETINA_LANDSCAPE_16_9.jpg",
+              "width": 1136,
+              "height": 639,
+              "fallback": false
+            },
+            {
+              "ratio": "16_9",
+              "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_RECOMENDATION_16_9.jpg",
+              "width": 100,
+              "height": 56,
+              "fallback": false
+            }
+          ],
+          "classifications": [
+            {
+              "primary": true,
+              "segment": {
+                "id": "KZFzniwnSyZfZ7v7nE",
+                "name": "Sports"
+              },
+              "genre": {
+                "id": "KnvZfZ7vAde",
+                "name": "Basketball"
+              },
+              "subGenre": {
+                "id": "KZazBEonSMnZfZ7vFJA",
+                "name": "NBA"
+              },
+              "type": {
+                "id": "KZAyXgnZfZ7v7l1",
+                "name": "Group"
+              },
+              "subType": {
+                "id": "KZFzBErXgnZfZ7vA7d",
+                "name": "Team"
+              },
+              "family": false
+            }
+          ],
+          "upcomingEvents": {
+            "_total": 82,
+            "tmr": 9,
+            "ticketmaster": 73,
+            "_filtered": 0
+          },
+          "_links": {
+            "self": {
+              "href": "/discovery/v2/attractions/K8vZ9171oZf?locale=en-us"
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "name": "Phoenix Suns vs. Golden State Warriors",
+    "type": "event",
+    "id": "G5v0Z98m20vKU",
+    "test": false,
+    "url": "https://www.ticketmaster.com/phoenix-suns-vs-golden-state-warriors-phoenix-arizona-10-25-2022/event/19005D0B8F9014F6",
+    "locale": "en-us",
+    "images": [
+      {
+        "ratio": "4_3",
+        "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_CUSTOM.jpg",
+        "width": 305,
+        "height": 225,
+        "fallback": false
+      },
+      {
+        "ratio": "16_9",
+        "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_RETINA_PORTRAIT_16_9.jpg",
+        "width": 640,
+        "height": 360,
+        "fallback": false
+      },
+      {
+        "ratio": "16_9",
+        "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+        "width": 2048,
+        "height": 1152,
+        "fallback": false
+      },
+      {
+        "ratio": "16_9",
+        "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_EVENT_DETAIL_PAGE_16_9.jpg",
+        "width": 205,
+        "height": 115,
+        "fallback": false
+      },
+      {
+        "ratio": "3_2",
+        "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_ARTIST_PAGE_3_2.jpg",
+        "width": 305,
+        "height": 203,
+        "fallback": false
+      },
+      {
+        "ratio": "16_9",
+        "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_TABLET_LANDSCAPE_16_9.jpg",
+        "width": 1024,
+        "height": 576,
+        "fallback": false
+      },
+      {
+        "ratio": "3_2",
+        "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_RETINA_PORTRAIT_3_2.jpg",
+        "width": 640,
+        "height": 427,
+        "fallback": false
+      },
+      {
+        "ratio": "3_2",
+        "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_TABLET_LANDSCAPE_3_2.jpg",
+        "width": 1024,
+        "height": 683,
+        "fallback": false
+      },
+      {
+        "ratio": "16_9",
+        "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_RETINA_LANDSCAPE_16_9.jpg",
+        "width": 1136,
+        "height": 639,
+        "fallback": false
+      },
+      {
+        "ratio": "16_9",
+        "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_RECOMENDATION_16_9.jpg",
+        "width": 100,
+        "height": 56,
+        "fallback": false
+      }
+    ],
+    "sales": {
+      "public": {
+        "startDateTime": "2022-08-29T20:00:00Z",
+        "startTBD": false,
+        "startTBA": false,
+        "endDateTime": "2022-10-26T04:00:00Z"
+      },
+      "presales": [
+        {
+          "startDateTime": "2022-08-17T19:30:00Z",
+          "endDateTime": "2022-08-29T20:00:00Z",
+          "name": "Resale Onsale"
+        }
+      ]
+    },
+    "dates": {
+      "start": {
+        "localDate": "2022-10-25",
+        "localTime": "19:00:00",
+        "dateTime": "2022-10-26T02:00:00Z",
+        "dateTBD": false,
+        "dateTBA": false,
+        "timeTBA": false,
+        "noSpecificTime": false
+      },
+      "timezone": "America/Phoenix",
+      "status": {
+        "code": "onsale"
+      },
+      "spanMultipleDays": false
+    },
+    "classifications": [
+      {
+        "primary": true,
+        "segment": {
+          "id": "KZFzniwnSyZfZ7v7nE",
+          "name": "Sports"
+        },
+        "genre": {
+          "id": "KnvZfZ7vAde",
+          "name": "Basketball"
+        },
+        "subGenre": {
+          "id": "KZazBEonSMnZfZ7vFJA",
+          "name": "NBA"
+        },
+        "type": {
+          "id": "KZAyXgnZfZ7v7l1",
+          "name": "Group"
+        },
+        "subType": {
+          "id": "KZFzBErXgnZfZ7vA7d",
+          "name": "Team"
+        },
+        "family": false
+      }
+    ],
+    "promoter": {
+      "id": "695",
+      "name": "NBA REGULAR SEASON",
+      "description": "NBA REGULAR SEASON / NTL / USA"
+    },
+    "promoters": [
+      {
+        "id": "695",
+        "name": "NBA REGULAR SEASON",
+        "description": "NBA REGULAR SEASON / NTL / USA"
+      }
+    ],
+    "info": "Footprint Center is now a cashless environment. Please plan on using Visa, Mastercard, American Express or Discover during your visit. Don't have a credit/debit card? Convert cash into a preloaded Mastercard by visiting one of our reverse ATMs located near the Ticket Office or Section 218! There is a 6 ticket limit. To purchase more than 6 tickets, please call 602.379.SUNS to find out about group tickets.",
+    "pleaseNote": "Footprint Center is now a cashless environment. Please plan on using Visa, Mastercard, American Express or Discover during your visit. Don't have a credit/debit card? Convert cash into a preloaded Mastercard by visiting one of our reverse ATMs located near the Ticket Office or Section 218!",
+    "priceRanges": [
+      {
+        "type": "standard",
+        "currency": "USD",
+        "min": 84,
+        "max": 5268
+      }
+    ],
+    "products": [
+      {
+        "name": "PARKWHIZ FOOTPRINT CENTER",
+        "id": "G5v0Z9o1vXsUV",
+        "url": "https://www.ticketmaster.com/parkwhiz-footprint-center-phoenix-arizona-10-25-2022/event/19005D1281FB1DB4",
+        "type": "Upsell",
+        "classifications": [
+          {
+            "primary": true,
+            "segment": {
+              "id": "KZFzniwnSyZfZ7v7n1",
+              "name": "Miscellaneous"
+            },
+            "genre": {
+              "id": "KnvZfZ7v7ll",
+              "name": "Undefined"
+            },
+            "subGenre": {
+              "id": "KZazBEonSMnZfZ7vAv1",
+              "name": "Undefined"
+            },
+            "type": {
+              "id": "KZAyXgnZfZ7vAva",
+              "name": "Parking"
+            },
+            "subType": {
+              "id": "KZFzBErXgnZfZ7vAFe",
+              "name": "Parking"
+            },
+            "family": false
+          }
+        ]
+      }
+    ],
+    "seatmap": {
+      "staticUrl": "https://maps.ticketmaster.com/maps/geometry/3/event/19005D0B8F9014F6/staticImage?type=png&systemId=HOST"
+    },
+    "accessibility": {
+      "ticketLimit": 4
+    },
+    "ticketLimit": {
+      "info": "There is an overall 6 ticket limit for this event."
+    },
+    "ageRestrictions": {
+      "legalAgeEnforced": false
+    },
+    "ticketing": {
+      "safeTix": {
+        "enabled": true
+      }
+    },
+    "_links": {
+      "self": {
+        "href": "/discovery/v2/events/G5v0Z98m20vKU?locale=en-us"
+      },
+      "attractions": [
+        {
+          "href": "/discovery/v2/attractions/K8vZ9171oZf?locale=en-us"
+        },
+        {
+          "href": "/discovery/v2/attractions/K8vZ9171oa0?locale=en-us"
+        }
+      ],
+      "venues": [
+        {
+          "href": "/discovery/v2/venues/KovZpZAE617A?locale=en-us"
+        }
+      ]
+    },
+    "_embedded": {
+      "venues": [
+        {
+          "name": "Footprint Center",
+          "type": "venue",
+          "id": "KovZpZAE617A",
+          "test": false,
+          "url": "https://www.ticketmaster.com/footprint-center-tickets-phoenix/venue/205079",
+          "locale": "en-us",
+          "images": [
+            {
+              "ratio": "16_9",
+              "url": "https://s1.ticketm.net/dbimages/22218v.jpg",
+              "width": 205,
+              "height": 115,
+              "fallback": false
+            }
+          ],
+          "postalCode": "85004",
+          "timezone": "America/Phoenix",
+          "city": {
+            "name": "Phoenix"
+          },
+          "state": {
+            "name": "Arizona",
+            "stateCode": "AZ"
+          },
+          "country": {
+            "name": "United States Of America",
+            "countryCode": "US"
+          },
+          "address": {
+            "line1": "201 East Jefferson Street"
+          },
+          "location": {
+            "longitude": "-112.071313",
+            "latitude": "33.445899"
+          },
+          "markets": [
+            {
+              "name": "Phoenix and Tucson",
+              "id": "36"
+            }
+          ],
+          "dmas": [
+            {
+              "id": 359
+            },
+            {
+              "id": 402
+            },
+            {
+              "id": 420
+            }
+          ],
+          "boxOfficeInfo": {
+            "phoneNumberDetail": "Northwest side of Footprint Center in the Pavilion.(602)379-7800 Suns Game Nights call (602)379-7867",
+            "openHoursDetail": "Monday - Friday: 10:00am - 5:00pm Saturday - Sunday: closed except on event days and special on sales.",
+            "acceptedPaymentDetail": "The Footprint Center accepts the following methods of payment at the Box Office:VISA MASTERCARD DISCOVER AMERICAN EXPRESS CASH, PHX ARENA NO LONGER ACCEPTS CHECKS",
+            "willCallDetail": "The WILL CALL windows open two hours prior to events and are located on the Northwest side of the building in the Pavilion. WILL CALL PICK-UP: The Footprint Center requires that customers picking up WILL CALL tickets furnish the following: 1) PICTURE IDENTIFICATION THAT MATCHES THE PICK-UP NAME 2) CONFIRMATION NUMBER THAT MATCHES THE CUSTOMER ACCOUNT ALTERNATE WILL CALL PICK-UP: If another person, other than the person ordering and paying for the tickets, is picking up a WILL CALL order, the ALTERNATE PICK-UP name MUST be on the account. To get the alternate pick-up name noted on the account, the original purchaser MUST contact Ticketmaster at (1-800-745-3000), ask for customer service to verify account information and request alternate pick-up."
+          },
+          "parkingDetail": "Adjacent parking structure at 1st and Madison. Many other parking lots and structures within a 10 minute walk of Footprint Center. Prices vary by event. Parking and Direction hotline (602)514-8472",
+          "accessibleSeatingDetail": "PHOENIX SUNS: To purchase Phoenix Suns tickets for people with disabilities, subject to availability, please call Footprint Center at (602)379-7867 or visit Footprint Center ticket office. Accessible tickets can also be purchased at all Ticketmaster locations, by calling (800)745-3000 or online at ticketmaster.com. ARIZONA RATTLERS: To purchase Arizona Rattlers tickets for people with disabilities, Subject to availability, please call Footprint Center at (602)379-7800 or visit the Footprint Center ticket office. Accessible tickets can also be purchased at all Ticketmaster locations, by calling (800)745-3000 or online at ticketmaster.com. PHOENIX MERCURY: To purchase Phoenix Mercury tickets for people with disabilities, subject to availability, please call Footprint Center at (602)252-9622 or visit the Footprint Center ticket office. Accessible tickets can also be purchased at all Ticketmaster locations, by calling (800)745-3000 or online at ticketmaster.com. ARENA CONCERTS AND OTHER EVENTS: To purchase concert or other event tickets for people with disabilities, subject to availability, please call Footprint Center at (602)379-7800 or visit Footprint Center ticket office. Accessible tickets can also be purchased at all Ticketmaster locations, by calling (800)745-3000 or online at ticketmaster.com.",
+          "generalInfo": {
+            "generalRule": "New security procedures have been implemented at Footprint Center. No backpacks or large purses will be allowed. Small purses and fanny packs will be subject to search. Every individual entering the arena will be subject to search. Every vehicle entering the building will be subject to search. Sealed water bottles (1 litre or smaller) allowed in building. No other outside concessions allowed. No pets other than \"assisting\" animals. Smoking in Facility: Footprint Center is a non-smoking facility. Smoking areas outside building are available, depending on event. NON professional cameras only (depending on event) No Laser Pointers allowed No Video Cameras allowed No Recorders allowed",
+            "childRule": "Please contact the Footprint Center ticket office at (602)379-7800, for information. Child policy Varies by event. Children age three (3) and above require a ticket for Phoenix Suns, Phoenix Mercury, and Arizona Rattlers games."
+          },
+          "upcomingEvents": {
+            "_total": 57,
+            "ticketmaster": 57,
+            "_filtered": 0
+          },
+          "_links": {
+            "self": {
+              "href": "/discovery/v2/venues/KovZpZAE617A?locale=en-us"
+            }
+          }
+        }
+      ],
+      "attractions": [
+        {
+          "name": "Phoenix Suns",
+          "type": "attraction",
+          "id": "K8vZ9171oZf",
+          "test": false,
+          "url": "https://www.ticketmaster.com/phoenix-suns-tickets/artist/806004",
+          "locale": "en-us",
+          "externalLinks": {
+            "twitter": [
+              {
+                "url": "https://twitter.com/Suns"
+              }
+            ],
+            "wiki": [
+              {
+                "url": "https://en.wikipedia.org/wiki/Phoenix_Suns"
+              }
+            ],
+            "facebook": [
+              {
+                "url": "https://www.facebook.com/suns/"
+              }
+            ],
+            "instagram": [
+              {
+                "url": "https://www.instagram.com/suns/"
+              }
+            ],
+            "homepage": [
+              {
+                "url": "https://www.nba.com/suns/"
+              }
+            ]
+          },
+          "aliases": [
+            "phoenix",
+            "suns",
+            "phoenix suns exchange",
+            "phoenix suns team exchange",
+            "phoenix suns season ticket holders",
+            "phoenix suns season tix holders",
+            "phoenix suns ticket exchange",
+            "suns exchange",
+            "suns season ticket holders",
+            "suns season tix holders",
+            "suns team exchange",
+            "suns ticket exchange"
+          ],
+          "images": [
+            {
+              "ratio": "4_3",
+              "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_CUSTOM.jpg",
+              "width": 305,
+              "height": 225,
+              "fallback": false
+            },
+            {
+              "ratio": "16_9",
+              "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_RETINA_PORTRAIT_16_9.jpg",
+              "width": 640,
+              "height": 360,
+              "fallback": false
+            },
+            {
+              "ratio": "16_9",
+              "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+              "width": 2048,
+              "height": 1152,
+              "fallback": false
+            },
+            {
+              "ratio": "16_9",
+              "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_EVENT_DETAIL_PAGE_16_9.jpg",
+              "width": 205,
+              "height": 115,
+              "fallback": false
+            },
+            {
+              "ratio": "3_2",
+              "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_ARTIST_PAGE_3_2.jpg",
+              "width": 305,
+              "height": 203,
+              "fallback": false
+            },
+            {
+              "ratio": "16_9",
+              "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_TABLET_LANDSCAPE_16_9.jpg",
+              "width": 1024,
+              "height": 576,
+              "fallback": false
+            },
+            {
+              "ratio": "3_2",
+              "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_RETINA_PORTRAIT_3_2.jpg",
+              "width": 640,
+              "height": 427,
+              "fallback": false
+            },
+            {
+              "ratio": "3_2",
+              "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_TABLET_LANDSCAPE_3_2.jpg",
+              "width": 1024,
+              "height": 683,
+              "fallback": false
+            },
+            {
+              "ratio": "16_9",
+              "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_RETINA_LANDSCAPE_16_9.jpg",
+              "width": 1136,
+              "height": 639,
+              "fallback": false
+            },
+            {
+              "ratio": "16_9",
+              "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_RECOMENDATION_16_9.jpg",
+              "width": 100,
+              "height": 56,
+              "fallback": false
+            }
+          ],
+          "classifications": [
+            {
+              "primary": true,
+              "segment": {
+                "id": "KZFzniwnSyZfZ7v7nE",
+                "name": "Sports"
+              },
+              "genre": {
+                "id": "KnvZfZ7vAde",
+                "name": "Basketball"
+              },
+              "subGenre": {
+                "id": "KZazBEonSMnZfZ7vFJA",
+                "name": "NBA"
+              },
+              "type": {
+                "id": "KZAyXgnZfZ7v7l1",
+                "name": "Group"
+              },
+              "subType": {
+                "id": "KZFzBErXgnZfZ7vA7d",
+                "name": "Team"
+              },
+              "family": false
+            }
+          ],
+          "upcomingEvents": {
+            "_total": 82,
+            "tmr": 9,
+            "ticketmaster": 73,
+            "_filtered": 0
+          },
+          "_links": {
+            "self": {
+              "href": "/discovery/v2/attractions/K8vZ9171oZf?locale=en-us"
+            }
+          }
+        },
+        {
+          "name": "Golden State Warriors",
+          "type": "attraction",
+          "id": "K8vZ9171oa0",
+          "test": false,
+          "url": "https://www.ticketmaster.com/golden-state-warriors-tickets/artist/805946",
+          "locale": "en-us",
+          "externalLinks": {
+            "twitter": [
+              {
+                "url": "https://twitter.com/warriors"
+              }
+            ],
+            "wiki": [
+              {
+                "url": "https://en.wikipedia.org/wiki/Golden_State_Warriors"
+              }
+            ],
+            "facebook": [
+              {
+                "url": "https://www.facebook.com/warriors"
+              }
+            ],
+            "instagram": [
+              {
+                "url": "https://www.instagram.com/warriors"
+              }
+            ],
+            "homepage": [
+              {
+                "url": "https://www.nba.com/warriors/"
+              }
+            ]
+          },
+          "images": [
+            {
+              "ratio": "4_3",
+              "url": "https://s1.ticketm.net/dam/a/c26/f3bc3686-a6c2-4324-a6cb-18ab2441ac26_1339991_CUSTOM.jpg",
+              "width": 305,
+              "height": 225,
+              "fallback": false
+            },
+            {
+              "ratio": "3_2",
+              "url": "https://s1.ticketm.net/dam/a/c26/f3bc3686-a6c2-4324-a6cb-18ab2441ac26_1339991_TABLET_LANDSCAPE_3_2.jpg",
+              "width": 1024,
+              "height": 683,
+              "fallback": false
+            },
+            {
+              "ratio": "16_9",
+              "url": "https://s1.ticketm.net/dam/a/c26/f3bc3686-a6c2-4324-a6cb-18ab2441ac26_1339991_EVENT_DETAIL_PAGE_16_9.jpg",
+              "width": 205,
+              "height": 115,
+              "fallback": false
+            },
+            {
+              "ratio": "3_2",
+              "url": "https://s1.ticketm.net/dam/a/c26/f3bc3686-a6c2-4324-a6cb-18ab2441ac26_1339991_ARTIST_PAGE_3_2.jpg",
+              "width": 305,
+              "height": 203,
+              "fallback": false
+            },
+            {
+              "ratio": "16_9",
+              "url": "https://s1.ticketm.net/dam/a/c26/f3bc3686-a6c2-4324-a6cb-18ab2441ac26_1339991_RECOMENDATION_16_9.jpg",
+              "width": 100,
+              "height": 56,
+              "fallback": false
+            },
+            {
+              "ratio": "16_9",
+              "url": "https://s1.ticketm.net/dam/a/c26/f3bc3686-a6c2-4324-a6cb-18ab2441ac26_1339991_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+              "width": 2048,
+              "height": 1152,
+              "fallback": false
+            },
+            {
+              "ratio": "16_9",
+              "url": "https://s1.ticketm.net/dam/a/c26/f3bc3686-a6c2-4324-a6cb-18ab2441ac26_1339991_TABLET_LANDSCAPE_16_9.jpg",
+              "width": 1024,
+              "height": 576,
+              "fallback": false
+            },
+            {
+              "ratio": "3_2",
+              "url": "https://s1.ticketm.net/dam/a/c26/f3bc3686-a6c2-4324-a6cb-18ab2441ac26_1339991_RETINA_PORTRAIT_3_2.jpg",
+              "width": 640,
+              "height": 427,
+              "fallback": false
+            },
+            {
+              "ratio": "16_9",
+              "url": "https://s1.ticketm.net/dam/a/c26/f3bc3686-a6c2-4324-a6cb-18ab2441ac26_1339991_RETINA_LANDSCAPE_16_9.jpg",
+              "width": 1136,
+              "height": 639,
+              "fallback": false
+            },
+            {
+              "ratio": "16_9",
+              "url": "https://s1.ticketm.net/dam/a/c26/f3bc3686-a6c2-4324-a6cb-18ab2441ac26_1339991_RETINA_PORTRAIT_16_9.jpg",
+              "width": 640,
+              "height": 360,
+              "fallback": false
+            }
+          ],
+          "classifications": [
+            {
+              "primary": true,
+              "segment": {
+                "id": "KZFzniwnSyZfZ7v7nE",
+                "name": "Sports"
+              },
+              "genre": {
+                "id": "KnvZfZ7vAde",
+                "name": "Basketball"
+              },
+              "subGenre": {
+                "id": "KZazBEonSMnZfZ7vFJA",
+                "name": "NBA"
+              },
+              "type": {
+                "id": "KZAyXgnZfZ7v7l1",
+                "name": "Group"
+              },
+              "subType": {
+                "id": "KZFzBErXgnZfZ7vA7d",
+                "name": "Team"
+              },
+              "family": false
+            }
+          ],
+          "upcomingEvents": {
+            "_total": 82,
+            "tmr": 10,
+            "ticketmaster": 72,
+            "_filtered": 0
+          },
+          "_links": {
+            "self": {
+              "href": "/discovery/v2/attractions/K8vZ9171oa0?locale=en-us"
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "name": "Phoenix Suns vs. New Orleans Pelicans",
+    "type": "event",
+    "id": "G5v0Z98m20sKH",
+    "test": false,
+    "url": "https://www.ticketmaster.com/phoenix-suns-vs-new-orleans-pelicans-phoenix-arizona-10-28-2022/event/19005D0B8F9314FC",
+    "locale": "en-us",
+    "images": [
+      {
+        "ratio": "4_3",
+        "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_CUSTOM.jpg",
+        "width": 305,
+        "height": 225,
+        "fallback": false
+      },
+      {
+        "ratio": "16_9",
+        "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_RETINA_PORTRAIT_16_9.jpg",
+        "width": 640,
+        "height": 360,
+        "fallback": false
+      },
+      {
+        "ratio": "16_9",
+        "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+        "width": 2048,
+        "height": 1152,
+        "fallback": false
+      },
+      {
+        "ratio": "16_9",
+        "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_EVENT_DETAIL_PAGE_16_9.jpg",
+        "width": 205,
+        "height": 115,
+        "fallback": false
+      },
+      {
+        "ratio": "3_2",
+        "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_ARTIST_PAGE_3_2.jpg",
+        "width": 305,
+        "height": 203,
+        "fallback": false
+      },
+      {
+        "ratio": "16_9",
+        "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_TABLET_LANDSCAPE_16_9.jpg",
+        "width": 1024,
+        "height": 576,
+        "fallback": false
+      },
+      {
+        "ratio": "3_2",
+        "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_RETINA_PORTRAIT_3_2.jpg",
+        "width": 640,
+        "height": 427,
+        "fallback": false
+      },
+      {
+        "ratio": "3_2",
+        "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_TABLET_LANDSCAPE_3_2.jpg",
+        "width": 1024,
+        "height": 683,
+        "fallback": false
+      },
+      {
+        "ratio": "16_9",
+        "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_RETINA_LANDSCAPE_16_9.jpg",
+        "width": 1136,
+        "height": 639,
+        "fallback": false
+      },
+      {
+        "ratio": "16_9",
+        "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_RECOMENDATION_16_9.jpg",
+        "width": 100,
+        "height": 56,
+        "fallback": false
+      }
+    ],
+    "sales": {
+      "public": {
+        "startDateTime": "2022-08-29T20:00:00Z",
+        "startTBD": false,
+        "startTBA": false,
+        "endDateTime": "2022-10-29T04:00:00Z"
+      },
+      "presales": [
+        {
+          "startDateTime": "2022-08-17T19:30:00Z",
+          "endDateTime": "2022-08-29T20:00:00Z",
+          "name": "Resale Onsale"
+        }
+      ]
+    },
+    "dates": {
+      "start": {
+        "localDate": "2022-10-28",
+        "localTime": "19:00:00",
+        "dateTime": "2022-10-29T02:00:00Z",
+        "dateTBD": false,
+        "dateTBA": false,
+        "timeTBA": false,
+        "noSpecificTime": false
+      },
+      "timezone": "America/Phoenix",
+      "status": {
+        "code": "onsale"
+      },
+      "spanMultipleDays": false
+    },
+    "classifications": [
+      {
+        "primary": true,
+        "segment": {
+          "id": "KZFzniwnSyZfZ7v7nE",
+          "name": "Sports"
+        },
+        "genre": {
+          "id": "KnvZfZ7vAde",
+          "name": "Basketball"
+        },
+        "subGenre": {
+          "id": "KZazBEonSMnZfZ7vFJA",
+          "name": "NBA"
+        },
+        "type": {
+          "id": "KZAyXgnZfZ7v7l1",
+          "name": "Group"
+        },
+        "subType": {
+          "id": "KZFzBErXgnZfZ7vA7d",
+          "name": "Team"
+        },
+        "family": false
+      }
+    ],
+    "promoter": {
+      "id": "695",
+      "name": "NBA REGULAR SEASON",
+      "description": "NBA REGULAR SEASON / NTL / USA"
+    },
+    "promoters": [
+      {
+        "id": "695",
+        "name": "NBA REGULAR SEASON",
+        "description": "NBA REGULAR SEASON / NTL / USA"
+      }
+    ],
+    "info": "Footprint Center is now a cashless environment. Please plan on using Visa, Mastercard, American Express or Discover during your visit. Don't have a credit/debit card? Convert cash into a preloaded Mastercard by visiting one of our reverse ATMs located near the Ticket Office or Section 218! There is a 6 ticket limit. To purchase more than 6 tickets, please call 602.379.SUNS to find out about group tickets.",
+    "pleaseNote": "Footprint Center is now a cashless environment. Please plan on using Visa, Mastercard, American Express or Discover during your visit. Don't have a credit/debit card? Convert cash into a preloaded Mastercard by visiting one of our reverse ATMs located near the Ticket Office or Section 218!",
+    "priceRanges": [
+      {
+        "type": "standard",
+        "currency": "USD",
+        "min": 38,
+        "max": 2978
+      }
+    ],
+    "products": [
+      {
+        "name": "PARKWHIZ FOOTPRINT CENTER",
+        "id": "G5v0Z9o1eZvMA",
+        "url": "https://www.ticketmaster.com/parkwhiz-footprint-center-phoenix-arizona-10-28-2022/event/19005D1282001DC5",
+        "type": "Upsell",
+        "classifications": [
+          {
+            "primary": true,
+            "segment": {
+              "id": "KZFzniwnSyZfZ7v7n1",
+              "name": "Miscellaneous"
+            },
+            "genre": {
+              "id": "KnvZfZ7v7ll",
+              "name": "Undefined"
+            },
+            "subGenre": {
+              "id": "KZazBEonSMnZfZ7vAv1",
+              "name": "Undefined"
+            },
+            "type": {
+              "id": "KZAyXgnZfZ7vAva",
+              "name": "Parking"
+            },
+            "subType": {
+              "id": "KZFzBErXgnZfZ7vAFe",
+              "name": "Parking"
+            },
+            "family": false
+          }
+        ]
+      }
+    ],
+    "seatmap": {
+      "staticUrl": "https://maps.ticketmaster.com/maps/geometry/3/event/19005D0B8F9314FC/staticImage?type=png&systemId=HOST"
+    },
+    "accessibility": {
+      "ticketLimit": 4
+    },
+    "ticketLimit": {
+      "info": "There is an overall 6 ticket limit for this event."
+    },
+    "ageRestrictions": {
+      "legalAgeEnforced": false
+    },
+    "ticketing": {
+      "safeTix": {
+        "enabled": true
+      }
+    },
+    "_links": {
+      "self": {
+        "href": "/discovery/v2/events/G5v0Z98m20sKH?locale=en-us"
+      },
+      "attractions": [
+        {
+          "href": "/discovery/v2/attractions/K8vZ9171oZf?locale=en-us"
+        },
+        {
+          "href": "/discovery/v2/attractions/K8vZ9171oaV?locale=en-us"
+        }
+      ],
+      "venues": [
+        {
+          "href": "/discovery/v2/venues/KovZpZAE617A?locale=en-us"
+        }
+      ]
+    },
+    "_embedded": {
+      "venues": [
+        {
+          "name": "Footprint Center",
+          "type": "venue",
+          "id": "KovZpZAE617A",
+          "test": false,
+          "url": "https://www.ticketmaster.com/footprint-center-tickets-phoenix/venue/205079",
+          "locale": "en-us",
+          "images": [
+            {
+              "ratio": "16_9",
+              "url": "https://s1.ticketm.net/dbimages/22218v.jpg",
+              "width": 205,
+              "height": 115,
+              "fallback": false
+            }
+          ],
+          "postalCode": "85004",
+          "timezone": "America/Phoenix",
+          "city": {
+            "name": "Phoenix"
+          },
+          "state": {
+            "name": "Arizona",
+            "stateCode": "AZ"
+          },
+          "country": {
+            "name": "United States Of America",
+            "countryCode": "US"
+          },
+          "address": {
+            "line1": "201 East Jefferson Street"
+          },
+          "location": {
+            "longitude": "-112.071313",
+            "latitude": "33.445899"
+          },
+          "markets": [
+            {
+              "name": "Phoenix and Tucson",
+              "id": "36"
+            }
+          ],
+          "dmas": [
+            {
+              "id": 359
+            },
+            {
+              "id": 402
+            },
+            {
+              "id": 420
+            }
+          ],
+          "boxOfficeInfo": {
+            "phoneNumberDetail": "Northwest side of Footprint Center in the Pavilion.(602)379-7800 Suns Game Nights call (602)379-7867",
+            "openHoursDetail": "Monday - Friday: 10:00am - 5:00pm Saturday - Sunday: closed except on event days and special on sales.",
+            "acceptedPaymentDetail": "The Footprint Center accepts the following methods of payment at the Box Office:VISA MASTERCARD DISCOVER AMERICAN EXPRESS CASH, PHX ARENA NO LONGER ACCEPTS CHECKS",
+            "willCallDetail": "The WILL CALL windows open two hours prior to events and are located on the Northwest side of the building in the Pavilion. WILL CALL PICK-UP: The Footprint Center requires that customers picking up WILL CALL tickets furnish the following: 1) PICTURE IDENTIFICATION THAT MATCHES THE PICK-UP NAME 2) CONFIRMATION NUMBER THAT MATCHES THE CUSTOMER ACCOUNT ALTERNATE WILL CALL PICK-UP: If another person, other than the person ordering and paying for the tickets, is picking up a WILL CALL order, the ALTERNATE PICK-UP name MUST be on the account. To get the alternate pick-up name noted on the account, the original purchaser MUST contact Ticketmaster at (1-800-745-3000), ask for customer service to verify account information and request alternate pick-up."
+          },
+          "parkingDetail": "Adjacent parking structure at 1st and Madison. Many other parking lots and structures within a 10 minute walk of Footprint Center. Prices vary by event. Parking and Direction hotline (602)514-8472",
+          "accessibleSeatingDetail": "PHOENIX SUNS: To purchase Phoenix Suns tickets for people with disabilities, subject to availability, please call Footprint Center at (602)379-7867 or visit Footprint Center ticket office. Accessible tickets can also be purchased at all Ticketmaster locations, by calling (800)745-3000 or online at ticketmaster.com. ARIZONA RATTLERS: To purchase Arizona Rattlers tickets for people with disabilities, Subject to availability, please call Footprint Center at (602)379-7800 or visit the Footprint Center ticket office. Accessible tickets can also be purchased at all Ticketmaster locations, by calling (800)745-3000 or online at ticketmaster.com. PHOENIX MERCURY: To purchase Phoenix Mercury tickets for people with disabilities, subject to availability, please call Footprint Center at (602)252-9622 or visit the Footprint Center ticket office. Accessible tickets can also be purchased at all Ticketmaster locations, by calling (800)745-3000 or online at ticketmaster.com. ARENA CONCERTS AND OTHER EVENTS: To purchase concert or other event tickets for people with disabilities, subject to availability, please call Footprint Center at (602)379-7800 or visit Footprint Center ticket office. Accessible tickets can also be purchased at all Ticketmaster locations, by calling (800)745-3000 or online at ticketmaster.com.",
+          "generalInfo": {
+            "generalRule": "New security procedures have been implemented at Footprint Center. No backpacks or large purses will be allowed. Small purses and fanny packs will be subject to search. Every individual entering the arena will be subject to search. Every vehicle entering the building will be subject to search. Sealed water bottles (1 litre or smaller) allowed in building. No other outside concessions allowed. No pets other than \"assisting\" animals. Smoking in Facility: Footprint Center is a non-smoking facility. Smoking areas outside building are available, depending on event. NON professional cameras only (depending on event) No Laser Pointers allowed No Video Cameras allowed No Recorders allowed",
+            "childRule": "Please contact the Footprint Center ticket office at (602)379-7800, for information. Child policy Varies by event. Children age three (3) and above require a ticket for Phoenix Suns, Phoenix Mercury, and Arizona Rattlers games."
+          },
+          "upcomingEvents": {
+            "_total": 57,
+            "ticketmaster": 57,
+            "_filtered": 0
+          },
+          "_links": {
+            "self": {
+              "href": "/discovery/v2/venues/KovZpZAE617A?locale=en-us"
+            }
+          }
+        }
+      ],
+      "attractions": [
+        {
+          "name": "Phoenix Suns",
+          "type": "attraction",
+          "id": "K8vZ9171oZf",
+          "test": false,
+          "url": "https://www.ticketmaster.com/phoenix-suns-tickets/artist/806004",
+          "locale": "en-us",
+          "externalLinks": {
+            "twitter": [
+              {
+                "url": "https://twitter.com/Suns"
+              }
+            ],
+            "wiki": [
+              {
+                "url": "https://en.wikipedia.org/wiki/Phoenix_Suns"
+              }
+            ],
+            "facebook": [
+              {
+                "url": "https://www.facebook.com/suns/"
+              }
+            ],
+            "instagram": [
+              {
+                "url": "https://www.instagram.com/suns/"
+              }
+            ],
+            "homepage": [
+              {
+                "url": "https://www.nba.com/suns/"
+              }
+            ]
+          },
+          "aliases": [
+            "phoenix",
+            "suns",
+            "phoenix suns exchange",
+            "phoenix suns team exchange",
+            "phoenix suns season ticket holders",
+            "phoenix suns season tix holders",
+            "phoenix suns ticket exchange",
+            "suns exchange",
+            "suns season ticket holders",
+            "suns season tix holders",
+            "suns team exchange",
+            "suns ticket exchange"
+          ],
+          "images": [
+            {
+              "ratio": "4_3",
+              "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_CUSTOM.jpg",
+              "width": 305,
+              "height": 225,
+              "fallback": false
+            },
+            {
+              "ratio": "16_9",
+              "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_RETINA_PORTRAIT_16_9.jpg",
+              "width": 640,
+              "height": 360,
+              "fallback": false
+            },
+            {
+              "ratio": "16_9",
+              "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+              "width": 2048,
+              "height": 1152,
+              "fallback": false
+            },
+            {
+              "ratio": "16_9",
+              "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_EVENT_DETAIL_PAGE_16_9.jpg",
+              "width": 205,
+              "height": 115,
+              "fallback": false
+            },
+            {
+              "ratio": "3_2",
+              "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_ARTIST_PAGE_3_2.jpg",
+              "width": 305,
+              "height": 203,
+              "fallback": false
+            },
+            {
+              "ratio": "16_9",
+              "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_TABLET_LANDSCAPE_16_9.jpg",
+              "width": 1024,
+              "height": 576,
+              "fallback": false
+            },
+            {
+              "ratio": "3_2",
+              "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_RETINA_PORTRAIT_3_2.jpg",
+              "width": 640,
+              "height": 427,
+              "fallback": false
+            },
+            {
+              "ratio": "3_2",
+              "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_TABLET_LANDSCAPE_3_2.jpg",
+              "width": 1024,
+              "height": 683,
+              "fallback": false
+            },
+            {
+              "ratio": "16_9",
+              "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_RETINA_LANDSCAPE_16_9.jpg",
+              "width": 1136,
+              "height": 639,
+              "fallback": false
+            },
+            {
+              "ratio": "16_9",
+              "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_RECOMENDATION_16_9.jpg",
+              "width": 100,
+              "height": 56,
+              "fallback": false
+            }
+          ],
+          "classifications": [
+            {
+              "primary": true,
+              "segment": {
+                "id": "KZFzniwnSyZfZ7v7nE",
+                "name": "Sports"
+              },
+              "genre": {
+                "id": "KnvZfZ7vAde",
+                "name": "Basketball"
+              },
+              "subGenre": {
+                "id": "KZazBEonSMnZfZ7vFJA",
+                "name": "NBA"
+              },
+              "type": {
+                "id": "KZAyXgnZfZ7v7l1",
+                "name": "Group"
+              },
+              "subType": {
+                "id": "KZFzBErXgnZfZ7vA7d",
+                "name": "Team"
+              },
+              "family": false
+            }
+          ],
+          "upcomingEvents": {
+            "_total": 82,
+            "tmr": 9,
+            "ticketmaster": 73,
+            "_filtered": 0
+          },
+          "_links": {
+            "self": {
+              "href": "/discovery/v2/attractions/K8vZ9171oZf?locale=en-us"
+            }
+          }
+        },
+        {
+          "name": "New Orleans Pelicans",
+          "type": "attraction",
+          "id": "K8vZ9171oaV",
+          "test": false,
+          "url": "https://www.ticketmaster.com/new-orleans-pelicans-tickets/artist/805910",
+          "locale": "en-us",
+          "externalLinks": {
+            "twitter": [
+              {
+                "url": "http://www.twitter.com/pelicansnba"
+              }
+            ],
+            "wiki": [
+              {
+                "url": "https://en.wikipedia.org/wiki/New_Orleans_Pelicans"
+              }
+            ],
+            "facebook": [
+              {
+                "url": "http://www.facebook.com/pelicansnba"
+              }
+            ],
+            "instagram": [
+              {
+                "url": "http://www.instagram.com/pelicansnba"
+              }
+            ],
+            "homepage": [
+              {
+                "url": "https://www.nba.com/pelicans/"
+              }
+            ]
+          },
+          "images": [
+            {
+              "ratio": "16_9",
+              "url": "https://s1.ticketm.net/dam/a/b1c/4be191e2-6357-433c-a421-aa1ffb2e8b1c_1340051_EVENT_DETAIL_PAGE_16_9.jpg",
+              "width": 205,
+              "height": 115,
+              "fallback": false
+            },
+            {
+              "ratio": "16_9",
+              "url": "https://s1.ticketm.net/dam/a/b1c/4be191e2-6357-433c-a421-aa1ffb2e8b1c_1340051_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+              "width": 2048,
+              "height": 1152,
+              "fallback": false
+            },
+            {
+              "ratio": "16_9",
+              "url": "https://s1.ticketm.net/dam/a/b1c/4be191e2-6357-433c-a421-aa1ffb2e8b1c_1340051_RETINA_PORTRAIT_16_9.jpg",
+              "width": 640,
+              "height": 360,
+              "fallback": false
+            },
+            {
+              "ratio": "16_9",
+              "url": "https://s1.ticketm.net/dam/a/b1c/4be191e2-6357-433c-a421-aa1ffb2e8b1c_1340051_RECOMENDATION_16_9.jpg",
+              "width": 100,
+              "height": 56,
+              "fallback": false
+            },
+            {
+              "ratio": "3_2",
+              "url": "https://s1.ticketm.net/dam/a/b1c/4be191e2-6357-433c-a421-aa1ffb2e8b1c_1340051_TABLET_LANDSCAPE_3_2.jpg",
+              "width": 1024,
+              "height": 683,
+              "fallback": false
+            },
+            {
+              "ratio": "16_9",
+              "url": "https://s1.ticketm.net/dam/a/b1c/4be191e2-6357-433c-a421-aa1ffb2e8b1c_1340051_TABLET_LANDSCAPE_16_9.jpg",
+              "width": 1024,
+              "height": 576,
+              "fallback": false
+            },
+            {
+              "ratio": "3_2",
+              "url": "https://s1.ticketm.net/dam/a/b1c/4be191e2-6357-433c-a421-aa1ffb2e8b1c_1340051_ARTIST_PAGE_3_2.jpg",
+              "width": 305,
+              "height": 203,
+              "fallback": false
+            },
+            {
+              "ratio": "16_9",
+              "url": "https://s1.ticketm.net/dam/a/b1c/4be191e2-6357-433c-a421-aa1ffb2e8b1c_1340051_RETINA_LANDSCAPE_16_9.jpg",
+              "width": 1136,
+              "height": 639,
+              "fallback": false
+            },
+            {
+              "ratio": "4_3",
+              "url": "https://s1.ticketm.net/dam/a/b1c/4be191e2-6357-433c-a421-aa1ffb2e8b1c_1340051_CUSTOM.jpg",
+              "width": 305,
+              "height": 225,
+              "fallback": false
+            },
+            {
+              "ratio": "3_2",
+              "url": "https://s1.ticketm.net/dam/a/b1c/4be191e2-6357-433c-a421-aa1ffb2e8b1c_1340051_RETINA_PORTRAIT_3_2.jpg",
+              "width": 640,
+              "height": 427,
+              "fallback": false
+            }
+          ],
+          "classifications": [
+            {
+              "primary": true,
+              "segment": {
+                "id": "KZFzniwnSyZfZ7v7nE",
+                "name": "Sports"
+              },
+              "genre": {
+                "id": "KnvZfZ7vAde",
+                "name": "Basketball"
+              },
+              "subGenre": {
+                "id": "KZazBEonSMnZfZ7vFJA",
+                "name": "NBA"
+              },
+              "type": {
+                "id": "KZAyXgnZfZ7v7l1",
+                "name": "Group"
+              },
+              "subType": {
+                "id": "KZFzBErXgnZfZ7vA7d",
+                "name": "Team"
+              },
+              "family": false
+            }
+          ],
+          "upcomingEvents": {
+            "_total": 82,
+            "tmr": 48,
+            "ticketmaster": 34,
+            "_filtered": 0
+          },
+          "_links": {
+            "self": {
+              "href": "/discovery/v2/attractions/K8vZ9171oaV?locale=en-us"
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "name": "Phoenix Suns vs. Golden State Warriors",
+    "type": "event",
+    "id": "G5v0Z98m2Esf_",
+    "test": false,
+    "url": "https://www.ticketmaster.com/phoenix-suns-vs-golden-state-warriors-phoenix-arizona-11-16-2022/event/19005D0B8F9F1519",
+    "locale": "en-us",
+    "images": [
+      {
+        "ratio": "4_3",
+        "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_CUSTOM.jpg",
+        "width": 305,
+        "height": 225,
+        "fallback": false
+      },
+      {
+        "ratio": "16_9",
+        "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_RETINA_PORTRAIT_16_9.jpg",
+        "width": 640,
+        "height": 360,
+        "fallback": false
+      },
+      {
+        "ratio": "16_9",
+        "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+        "width": 2048,
+        "height": 1152,
+        "fallback": false
+      },
+      {
+        "ratio": "16_9",
+        "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_EVENT_DETAIL_PAGE_16_9.jpg",
+        "width": 205,
+        "height": 115,
+        "fallback": false
+      },
+      {
+        "ratio": "3_2",
+        "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_ARTIST_PAGE_3_2.jpg",
+        "width": 305,
+        "height": 203,
+        "fallback": false
+      },
+      {
+        "ratio": "16_9",
+        "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_TABLET_LANDSCAPE_16_9.jpg",
+        "width": 1024,
+        "height": 576,
+        "fallback": false
+      },
+      {
+        "ratio": "3_2",
+        "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_RETINA_PORTRAIT_3_2.jpg",
+        "width": 640,
+        "height": 427,
+        "fallback": false
+      },
+      {
+        "ratio": "3_2",
+        "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_TABLET_LANDSCAPE_3_2.jpg",
+        "width": 1024,
+        "height": 683,
+        "fallback": false
+      },
+      {
+        "ratio": "16_9",
+        "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_RETINA_LANDSCAPE_16_9.jpg",
+        "width": 1136,
+        "height": 639,
+        "fallback": false
+      },
+      {
+        "ratio": "16_9",
+        "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_RECOMENDATION_16_9.jpg",
+        "width": 100,
+        "height": 56,
+        "fallback": false
+      }
+    ],
+    "sales": {
+      "public": {
+        "startDateTime": "2022-08-29T20:00:00Z",
+        "startTBD": false,
+        "startTBA": false,
+        "endDateTime": "2022-11-17T05:00:00Z"
+      },
+      "presales": [
+        {
+          "startDateTime": "2022-08-17T19:30:00Z",
+          "endDateTime": "2022-08-29T20:00:00Z",
+          "name": "Resale Onsale"
+        }
+      ]
+    },
+    "dates": {
+      "start": {
+        "localDate": "2022-11-16",
+        "localTime": "20:00:00",
+        "dateTime": "2022-11-17T03:00:00Z",
+        "dateTBD": false,
+        "dateTBA": false,
+        "timeTBA": false,
+        "noSpecificTime": false
+      },
+      "timezone": "America/Phoenix",
+      "status": {
+        "code": "onsale"
+      },
+      "spanMultipleDays": false
+    },
+    "classifications": [
+      {
+        "primary": true,
+        "segment": {
+          "id": "KZFzniwnSyZfZ7v7nE",
+          "name": "Sports"
+        },
+        "genre": {
+          "id": "KnvZfZ7vAde",
+          "name": "Basketball"
+        },
+        "subGenre": {
+          "id": "KZazBEonSMnZfZ7vFJA",
+          "name": "NBA"
+        },
+        "type": {
+          "id": "KZAyXgnZfZ7v7l1",
+          "name": "Group"
+        },
+        "subType": {
+          "id": "KZFzBErXgnZfZ7vA7d",
+          "name": "Team"
+        },
+        "family": false
+      }
+    ],
+    "promoter": {
+      "id": "695",
+      "name": "NBA REGULAR SEASON",
+      "description": "NBA REGULAR SEASON / NTL / USA"
+    },
+    "promoters": [
+      {
+        "id": "695",
+        "name": "NBA REGULAR SEASON",
+        "description": "NBA REGULAR SEASON / NTL / USA"
+      }
+    ],
+    "info": "Footprint Center is now a cashless environment. Please plan on using Visa, Mastercard, American Express or Discover during your visit. Don't have a credit/debit card? Convert cash into a preloaded Mastercard by visiting one of our reverse ATMs located near the Ticket Office or Section 218! There is a 6 ticket limit. To purchase more than 6 tickets, please call 602.379.SUNS to find out about group tickets.",
+    "pleaseNote": "Footprint Center is now a cashless environment. Please plan on using Visa, Mastercard, American Express or Discover during your visit. Don't have a credit/debit card? Convert cash into a preloaded Mastercard by visiting one of our reverse ATMs located near the Ticket Office or Section 218!",
+    "priceRanges": [
+      {
+        "type": "standard",
+        "currency": "USD",
+        "min": 125,
+        "max": 5268
+      }
+    ],
+    "products": [
+      {
+        "name": "PARKWHIZ FOOTPRINT CENTER",
+        "id": "G5v0Z9o1ek-M-",
+        "url": "https://www.ticketmaster.com/parkwhiz-footprint-center-phoenix-arizona-11-16-2022/event/19005D12821A1DE1",
+        "type": "Upsell",
+        "classifications": [
+          {
+            "primary": true,
+            "segment": {
+              "id": "KZFzniwnSyZfZ7v7n1",
+              "name": "Miscellaneous"
+            },
+            "genre": {
+              "id": "KnvZfZ7v7ll",
+              "name": "Undefined"
+            },
+            "subGenre": {
+              "id": "KZazBEonSMnZfZ7vAv1",
+              "name": "Undefined"
+            },
+            "type": {
+              "id": "KZAyXgnZfZ7vAva",
+              "name": "Parking"
+            },
+            "subType": {
+              "id": "KZFzBErXgnZfZ7vAFe",
+              "name": "Parking"
+            },
+            "family": false
+          }
+        ]
+      }
+    ],
+    "seatmap": {
+      "staticUrl": "https://maps.ticketmaster.com/maps/geometry/3/event/19005D0B8F9F1519/staticImage?type=png&systemId=HOST"
+    },
+    "accessibility": {
+      "ticketLimit": 4
+    },
+    "ticketLimit": {
+      "info": "There is an overall 6 ticket limit for this event."
+    },
+    "ageRestrictions": {
+      "legalAgeEnforced": false
+    },
+    "ticketing": {
+      "safeTix": {
+        "enabled": true
+      }
+    },
+    "_links": {
+      "self": {
+        "href": "/discovery/v2/events/G5v0Z98m2Esf_?locale=en-us"
+      },
+      "attractions": [
+        {
+          "href": "/discovery/v2/attractions/K8vZ9171oZf?locale=en-us"
+        },
+        {
+          "href": "/discovery/v2/attractions/K8vZ9171oa0?locale=en-us"
+        }
+      ],
+      "venues": [
+        {
+          "href": "/discovery/v2/venues/KovZpZAE617A?locale=en-us"
+        }
+      ]
+    },
+    "_embedded": {
+      "venues": [
+        {
+          "name": "Footprint Center",
+          "type": "venue",
+          "id": "KovZpZAE617A",
+          "test": false,
+          "url": "https://www.ticketmaster.com/footprint-center-tickets-phoenix/venue/205079",
+          "locale": "en-us",
+          "images": [
+            {
+              "ratio": "16_9",
+              "url": "https://s1.ticketm.net/dbimages/22218v.jpg",
+              "width": 205,
+              "height": 115,
+              "fallback": false
+            }
+          ],
+          "postalCode": "85004",
+          "timezone": "America/Phoenix",
+          "city": {
+            "name": "Phoenix"
+          },
+          "state": {
+            "name": "Arizona",
+            "stateCode": "AZ"
+          },
+          "country": {
+            "name": "United States Of America",
+            "countryCode": "US"
+          },
+          "address": {
+            "line1": "201 East Jefferson Street"
+          },
+          "location": {
+            "longitude": "-112.071313",
+            "latitude": "33.445899"
+          },
+          "markets": [
+            {
+              "name": "Phoenix and Tucson",
+              "id": "36"
+            }
+          ],
+          "dmas": [
+            {
+              "id": 359
+            },
+            {
+              "id": 402
+            },
+            {
+              "id": 420
+            }
+          ],
+          "boxOfficeInfo": {
+            "phoneNumberDetail": "Northwest side of Footprint Center in the Pavilion.(602)379-7800 Suns Game Nights call (602)379-7867",
+            "openHoursDetail": "Monday - Friday: 10:00am - 5:00pm Saturday - Sunday: closed except on event days and special on sales.",
+            "acceptedPaymentDetail": "The Footprint Center accepts the following methods of payment at the Box Office:VISA MASTERCARD DISCOVER AMERICAN EXPRESS CASH, PHX ARENA NO LONGER ACCEPTS CHECKS",
+            "willCallDetail": "The WILL CALL windows open two hours prior to events and are located on the Northwest side of the building in the Pavilion. WILL CALL PICK-UP: The Footprint Center requires that customers picking up WILL CALL tickets furnish the following: 1) PICTURE IDENTIFICATION THAT MATCHES THE PICK-UP NAME 2) CONFIRMATION NUMBER THAT MATCHES THE CUSTOMER ACCOUNT ALTERNATE WILL CALL PICK-UP: If another person, other than the person ordering and paying for the tickets, is picking up a WILL CALL order, the ALTERNATE PICK-UP name MUST be on the account. To get the alternate pick-up name noted on the account, the original purchaser MUST contact Ticketmaster at (1-800-745-3000), ask for customer service to verify account information and request alternate pick-up."
+          },
+          "parkingDetail": "Adjacent parking structure at 1st and Madison. Many other parking lots and structures within a 10 minute walk of Footprint Center. Prices vary by event. Parking and Direction hotline (602)514-8472",
+          "accessibleSeatingDetail": "PHOENIX SUNS: To purchase Phoenix Suns tickets for people with disabilities, subject to availability, please call Footprint Center at (602)379-7867 or visit Footprint Center ticket office. Accessible tickets can also be purchased at all Ticketmaster locations, by calling (800)745-3000 or online at ticketmaster.com. ARIZONA RATTLERS: To purchase Arizona Rattlers tickets for people with disabilities, Subject to availability, please call Footprint Center at (602)379-7800 or visit the Footprint Center ticket office. Accessible tickets can also be purchased at all Ticketmaster locations, by calling (800)745-3000 or online at ticketmaster.com. PHOENIX MERCURY: To purchase Phoenix Mercury tickets for people with disabilities, subject to availability, please call Footprint Center at (602)252-9622 or visit the Footprint Center ticket office. Accessible tickets can also be purchased at all Ticketmaster locations, by calling (800)745-3000 or online at ticketmaster.com. ARENA CONCERTS AND OTHER EVENTS: To purchase concert or other event tickets for people with disabilities, subject to availability, please call Footprint Center at (602)379-7800 or visit Footprint Center ticket office. Accessible tickets can also be purchased at all Ticketmaster locations, by calling (800)745-3000 or online at ticketmaster.com.",
+          "generalInfo": {
+            "generalRule": "New security procedures have been implemented at Footprint Center. No backpacks or large purses will be allowed. Small purses and fanny packs will be subject to search. Every individual entering the arena will be subject to search. Every vehicle entering the building will be subject to search. Sealed water bottles (1 litre or smaller) allowed in building. No other outside concessions allowed. No pets other than \"assisting\" animals. Smoking in Facility: Footprint Center is a non-smoking facility. Smoking areas outside building are available, depending on event. NON professional cameras only (depending on event) No Laser Pointers allowed No Video Cameras allowed No Recorders allowed",
+            "childRule": "Please contact the Footprint Center ticket office at (602)379-7800, for information. Child policy Varies by event. Children age three (3) and above require a ticket for Phoenix Suns, Phoenix Mercury, and Arizona Rattlers games."
+          },
+          "upcomingEvents": {
+            "_total": 57,
+            "ticketmaster": 57,
+            "_filtered": 0
+          },
+          "_links": {
+            "self": {
+              "href": "/discovery/v2/venues/KovZpZAE617A?locale=en-us"
+            }
+          }
+        }
+      ],
+      "attractions": [
+        {
+          "name": "Phoenix Suns",
+          "type": "attraction",
+          "id": "K8vZ9171oZf",
+          "test": false,
+          "url": "https://www.ticketmaster.com/phoenix-suns-tickets/artist/806004",
+          "locale": "en-us",
+          "externalLinks": {
+            "twitter": [
+              {
+                "url": "https://twitter.com/Suns"
+              }
+            ],
+            "wiki": [
+              {
+                "url": "https://en.wikipedia.org/wiki/Phoenix_Suns"
+              }
+            ],
+            "facebook": [
+              {
+                "url": "https://www.facebook.com/suns/"
+              }
+            ],
+            "instagram": [
+              {
+                "url": "https://www.instagram.com/suns/"
+              }
+            ],
+            "homepage": [
+              {
+                "url": "https://www.nba.com/suns/"
+              }
+            ]
+          },
+          "aliases": [
+            "phoenix",
+            "suns",
+            "phoenix suns exchange",
+            "phoenix suns team exchange",
+            "phoenix suns season ticket holders",
+            "phoenix suns season tix holders",
+            "phoenix suns ticket exchange",
+            "suns exchange",
+            "suns season ticket holders",
+            "suns season tix holders",
+            "suns team exchange",
+            "suns ticket exchange"
+          ],
+          "images": [
+            {
+              "ratio": "4_3",
+              "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_CUSTOM.jpg",
+              "width": 305,
+              "height": 225,
+              "fallback": false
+            },
+            {
+              "ratio": "16_9",
+              "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_RETINA_PORTRAIT_16_9.jpg",
+              "width": 640,
+              "height": 360,
+              "fallback": false
+            },
+            {
+              "ratio": "16_9",
+              "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+              "width": 2048,
+              "height": 1152,
+              "fallback": false
+            },
+            {
+              "ratio": "16_9",
+              "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_EVENT_DETAIL_PAGE_16_9.jpg",
+              "width": 205,
+              "height": 115,
+              "fallback": false
+            },
+            {
+              "ratio": "3_2",
+              "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_ARTIST_PAGE_3_2.jpg",
+              "width": 305,
+              "height": 203,
+              "fallback": false
+            },
+            {
+              "ratio": "16_9",
+              "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_TABLET_LANDSCAPE_16_9.jpg",
+              "width": 1024,
+              "height": 576,
+              "fallback": false
+            },
+            {
+              "ratio": "3_2",
+              "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_RETINA_PORTRAIT_3_2.jpg",
+              "width": 640,
+              "height": 427,
+              "fallback": false
+            },
+            {
+              "ratio": "3_2",
+              "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_TABLET_LANDSCAPE_3_2.jpg",
+              "width": 1024,
+              "height": 683,
+              "fallback": false
+            },
+            {
+              "ratio": "16_9",
+              "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_RETINA_LANDSCAPE_16_9.jpg",
+              "width": 1136,
+              "height": 639,
+              "fallback": false
+            },
+            {
+              "ratio": "16_9",
+              "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_RECOMENDATION_16_9.jpg",
+              "width": 100,
+              "height": 56,
+              "fallback": false
+            }
+          ],
+          "classifications": [
+            {
+              "primary": true,
+              "segment": {
+                "id": "KZFzniwnSyZfZ7v7nE",
+                "name": "Sports"
+              },
+              "genre": {
+                "id": "KnvZfZ7vAde",
+                "name": "Basketball"
+              },
+              "subGenre": {
+                "id": "KZazBEonSMnZfZ7vFJA",
+                "name": "NBA"
+              },
+              "type": {
+                "id": "KZAyXgnZfZ7v7l1",
+                "name": "Group"
+              },
+              "subType": {
+                "id": "KZFzBErXgnZfZ7vA7d",
+                "name": "Team"
+              },
+              "family": false
+            }
+          ],
+          "upcomingEvents": {
+            "_total": 82,
+            "tmr": 9,
+            "ticketmaster": 73,
+            "_filtered": 0
+          },
+          "_links": {
+            "self": {
+              "href": "/discovery/v2/attractions/K8vZ9171oZf?locale=en-us"
+            }
+          }
+        },
+        {
+          "name": "Golden State Warriors",
+          "type": "attraction",
+          "id": "K8vZ9171oa0",
+          "test": false,
+          "url": "https://www.ticketmaster.com/golden-state-warriors-tickets/artist/805946",
+          "locale": "en-us",
+          "externalLinks": {
+            "twitter": [
+              {
+                "url": "https://twitter.com/warriors"
+              }
+            ],
+            "wiki": [
+              {
+                "url": "https://en.wikipedia.org/wiki/Golden_State_Warriors"
+              }
+            ],
+            "facebook": [
+              {
+                "url": "https://www.facebook.com/warriors"
+              }
+            ],
+            "instagram": [
+              {
+                "url": "https://www.instagram.com/warriors"
+              }
+            ],
+            "homepage": [
+              {
+                "url": "https://www.nba.com/warriors/"
+              }
+            ]
+          },
+          "images": [
+            {
+              "ratio": "4_3",
+              "url": "https://s1.ticketm.net/dam/a/c26/f3bc3686-a6c2-4324-a6cb-18ab2441ac26_1339991_CUSTOM.jpg",
+              "width": 305,
+              "height": 225,
+              "fallback": false
+            },
+            {
+              "ratio": "3_2",
+              "url": "https://s1.ticketm.net/dam/a/c26/f3bc3686-a6c2-4324-a6cb-18ab2441ac26_1339991_TABLET_LANDSCAPE_3_2.jpg",
+              "width": 1024,
+              "height": 683,
+              "fallback": false
+            },
+            {
+              "ratio": "16_9",
+              "url": "https://s1.ticketm.net/dam/a/c26/f3bc3686-a6c2-4324-a6cb-18ab2441ac26_1339991_EVENT_DETAIL_PAGE_16_9.jpg",
+              "width": 205,
+              "height": 115,
+              "fallback": false
+            },
+            {
+              "ratio": "3_2",
+              "url": "https://s1.ticketm.net/dam/a/c26/f3bc3686-a6c2-4324-a6cb-18ab2441ac26_1339991_ARTIST_PAGE_3_2.jpg",
+              "width": 305,
+              "height": 203,
+              "fallback": false
+            },
+            {
+              "ratio": "16_9",
+              "url": "https://s1.ticketm.net/dam/a/c26/f3bc3686-a6c2-4324-a6cb-18ab2441ac26_1339991_RECOMENDATION_16_9.jpg",
+              "width": 100,
+              "height": 56,
+              "fallback": false
+            },
+            {
+              "ratio": "16_9",
+              "url": "https://s1.ticketm.net/dam/a/c26/f3bc3686-a6c2-4324-a6cb-18ab2441ac26_1339991_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+              "width": 2048,
+              "height": 1152,
+              "fallback": false
+            },
+            {
+              "ratio": "16_9",
+              "url": "https://s1.ticketm.net/dam/a/c26/f3bc3686-a6c2-4324-a6cb-18ab2441ac26_1339991_TABLET_LANDSCAPE_16_9.jpg",
+              "width": 1024,
+              "height": 576,
+              "fallback": false
+            },
+            {
+              "ratio": "3_2",
+              "url": "https://s1.ticketm.net/dam/a/c26/f3bc3686-a6c2-4324-a6cb-18ab2441ac26_1339991_RETINA_PORTRAIT_3_2.jpg",
+              "width": 640,
+              "height": 427,
+              "fallback": false
+            },
+            {
+              "ratio": "16_9",
+              "url": "https://s1.ticketm.net/dam/a/c26/f3bc3686-a6c2-4324-a6cb-18ab2441ac26_1339991_RETINA_LANDSCAPE_16_9.jpg",
+              "width": 1136,
+              "height": 639,
+              "fallback": false
+            },
+            {
+              "ratio": "16_9",
+              "url": "https://s1.ticketm.net/dam/a/c26/f3bc3686-a6c2-4324-a6cb-18ab2441ac26_1339991_RETINA_PORTRAIT_16_9.jpg",
+              "width": 640,
+              "height": 360,
+              "fallback": false
+            }
+          ],
+          "classifications": [
+            {
+              "primary": true,
+              "segment": {
+                "id": "KZFzniwnSyZfZ7v7nE",
+                "name": "Sports"
+              },
+              "genre": {
+                "id": "KnvZfZ7vAde",
+                "name": "Basketball"
+              },
+              "subGenre": {
+                "id": "KZazBEonSMnZfZ7vFJA",
+                "name": "NBA"
+              },
+              "type": {
+                "id": "KZAyXgnZfZ7v7l1",
+                "name": "Group"
+              },
+              "subType": {
+                "id": "KZFzBErXgnZfZ7vA7d",
+                "name": "Team"
+              },
+              "family": false
+            }
+          ],
+          "upcomingEvents": {
+            "_total": 82,
+            "tmr": 10,
+            "ticketmaster": 72,
+            "_filtered": 0
+          },
+          "_links": {
+            "self": {
+              "href": "/discovery/v2/attractions/K8vZ9171oa0?locale=en-us"
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "name": "Orlando Magic v Phoenix Suns",
+    "type": "event",
+    "id": "G5eFZ9odA5Dt2",
+    "test": false,
+    "url": "https://www.ticketmaster.com/orlando-magic-v-phoenix-suns-orlando-florida-11-11-2022/event/22005D10C52FBA4F",
+    "locale": "en-us",
+    "images": [
+      {
+        "ratio": "3_2",
+        "url": "https://s1.ticketm.net/dam/a/512/fb748312-e0a4-455f-95e1-6fda0c1c1512_1339851_RETINA_PORTRAIT_3_2.jpg",
+        "width": 640,
+        "height": 427,
+        "fallback": false
+      },
+      {
+        "ratio": "16_9",
+        "url": "https://s1.ticketm.net/dam/a/512/fb748312-e0a4-455f-95e1-6fda0c1c1512_1339851_EVENT_DETAIL_PAGE_16_9.jpg",
+        "width": 205,
+        "height": 115,
+        "fallback": false
+      },
+      {
+        "ratio": "16_9",
+        "url": "https://s1.ticketm.net/dam/a/512/fb748312-e0a4-455f-95e1-6fda0c1c1512_1339851_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+        "width": 2048,
+        "height": 1152,
+        "fallback": false
+      },
+      {
+        "ratio": "3_2",
+        "url": "https://s1.ticketm.net/dam/a/512/fb748312-e0a4-455f-95e1-6fda0c1c1512_1339851_ARTIST_PAGE_3_2.jpg",
+        "width": 305,
+        "height": 203,
+        "fallback": false
+      },
+      {
+        "ratio": "3_2",
+        "url": "https://s1.ticketm.net/dam/a/512/fb748312-e0a4-455f-95e1-6fda0c1c1512_1339851_TABLET_LANDSCAPE_3_2.jpg",
+        "width": 1024,
+        "height": 683,
+        "fallback": false
+      },
+      {
+        "ratio": "4_3",
+        "url": "https://s1.ticketm.net/dam/a/512/fb748312-e0a4-455f-95e1-6fda0c1c1512_1339851_CUSTOM.jpg",
+        "width": 305,
+        "height": 225,
+        "fallback": false
+      },
+      {
+        "ratio": "16_9",
+        "url": "https://s1.ticketm.net/dam/a/512/fb748312-e0a4-455f-95e1-6fda0c1c1512_1339851_RETINA_PORTRAIT_16_9.jpg",
+        "width": 640,
+        "height": 360,
+        "fallback": false
+      },
+      {
+        "ratio": "16_9",
+        "url": "https://s1.ticketm.net/dam/a/512/fb748312-e0a4-455f-95e1-6fda0c1c1512_1339851_RECOMENDATION_16_9.jpg",
+        "width": 100,
+        "height": 56,
+        "fallback": false
+      },
+      {
+        "ratio": "16_9",
+        "url": "https://s1.ticketm.net/dam/a/512/fb748312-e0a4-455f-95e1-6fda0c1c1512_1339851_RETINA_LANDSCAPE_16_9.jpg",
+        "width": 1136,
+        "height": 639,
+        "fallback": false
+      },
+      {
+        "ratio": "16_9",
+        "url": "https://s1.ticketm.net/dam/a/512/fb748312-e0a4-455f-95e1-6fda0c1c1512_1339851_TABLET_LANDSCAPE_16_9.jpg",
+        "width": 1024,
+        "height": 576,
+        "fallback": false
+      }
+    ],
+    "sales": {
+      "public": {
+        "startDateTime": "2022-08-26T17:00:00Z",
+        "startTBD": false,
+        "startTBA": false,
+        "endDateTime": "2022-11-12T02:00:00Z"
+      },
+      "presales": [
+        {
+          "startDateTime": "2022-08-25T14:00:00Z",
+          "endDateTime": "2022-08-26T17:00:00Z",
+          "name": "Loyal Blue Presale",
+          "description": "Orlando Magic Employee single game presale. Ticket limit is 8 tickets."
+        },
+        {
+          "startDateTime": "2022-08-25T23:00:00Z",
+          "endDateTime": "2022-08-26T17:00:00Z",
+          "name": "Fan Insider Presale",
+          "description": "Presale for Corporate Partners, App users, and Email subscribers. Ticket limit is 8 tickets."
+        }
+      ]
+    },
+    "dates": {
+      "start": {
+        "localDate": "2022-11-11",
+        "localTime": "19:00:00",
+        "dateTime": "2022-11-12T00:00:00Z",
+        "dateTBD": false,
+        "dateTBA": false,
+        "timeTBA": false,
+        "noSpecificTime": false
+      },
+      "timezone": "America/New_York",
+      "status": {
+        "code": "onsale"
+      },
+      "spanMultipleDays": false
+    },
+    "classifications": [
+      {
+        "primary": true,
+        "segment": {
+          "id": "KZFzniwnSyZfZ7v7nE",
+          "name": "Sports"
+        },
+        "genre": {
+          "id": "KnvZfZ7vAde",
+          "name": "Basketball"
+        },
+        "subGenre": {
+          "id": "KZazBEonSMnZfZ7vFJA",
+          "name": "NBA"
+        },
+        "type": {
+          "id": "KZAyXgnZfZ7v7l1",
+          "name": "Group"
+        },
+        "subType": {
+          "id": "KZFzBErXgnZfZ7vA7d",
+          "name": "Team"
+        },
+        "family": false
+      }
+    ],
+    "promoter": {
+      "id": "494",
+      "name": "PROMOTED BY VENUE",
+      "description": "PROMOTED BY VENUE / NTL / USA"
+    },
+    "promoters": [
+      {
+        "id": "494",
+        "name": "PROMOTED BY VENUE",
+        "description": "PROMOTED BY VENUE / NTL / USA"
+      }
+    ],
+    "pleaseNote": "Tickets are mobile only.",
+    "priceRanges": [
+      {
+        "type": "standard",
+        "currency": "USD",
+        "min": 25,
+        "max": 2167.5
+      }
+    ],
+    "products": [
+      {
+        "name": "Parking - Game 7 - Magic v Suns",
+        "id": "G5eFZ98HrBi_F",
+        "url": "https://www.ticketmaster.com/parking-game-7-magic-v-suns-orlando-florida-11-11-2022/event/22005D0F1EEAC648",
+        "type": "Parking",
+        "classifications": [
+          {
+            "primary": true,
+            "segment": {
+              "id": "KZFzniwnSyZfZ7v7n1",
+              "name": "Miscellaneous"
+            },
+            "genre": {
+              "id": "KnvZfZ7v7ll",
+              "name": "Undefined"
+            },
+            "subGenre": {
+              "id": "KZazBEonSMnZfZ7vAv1",
+              "name": "Undefined"
+            },
+            "type": {
+              "id": "KZAyXgnZfZ7vAva",
+              "name": "Parking"
+            },
+            "subType": {
+              "id": "KZFzBErXgnZfZ7vAFe",
+              "name": "Parking"
+            },
+            "family": false
+          }
+        ]
+      }
+    ],
+    "seatmap": {
+      "staticUrl": "https://maps.ticketmaster.com/maps/geometry/3/event/22005D10C52FBA4F/staticImage?type=png&systemId=HOST"
+    },
+    "accessibility": {
+      "ticketLimit": 4
+    },
+    "ticketLimit": {
+      "info": "There is an overall 8 ticket limit for this event."
+    },
+    "ageRestrictions": {
+      "legalAgeEnforced": false
+    },
+    "ticketing": {
+      "safeTix": {
+        "enabled": true
+      }
+    },
+    "_links": {
+      "self": {
+        "href": "/discovery/v2/events/G5eFZ9odA5Dt2?locale=en-us"
+      },
+      "attractions": [
+        {
+          "href": "/discovery/v2/attractions/K8vZ9171ov7?locale=en-us"
+        },
+        {
+          "href": "/discovery/v2/attractions/K8vZ9171oZf?locale=en-us"
+        }
+      ],
+      "venues": [
+        {
+          "href": "/discovery/v2/venues/KovZpZAEvEEA?locale=en-us"
+        }
+      ]
+    },
+    "_embedded": {
+      "venues": [
+        {
+          "name": "Amway Center",
+          "type": "venue",
+          "id": "KovZpZAEvEEA",
+          "test": false,
+          "url": "https://www.ticketmaster.com/amway-center-tickets-orlando/venue/279548",
+          "locale": "en-us",
+          "images": [
+            {
+              "ratio": "16_9",
+              "url": "https://s1.ticketm.net/dbimages/22286v.jpg",
+              "width": 640,
+              "height": 360,
+              "fallback": false
+            }
+          ],
+          "postalCode": "32801",
+          "timezone": "America/New_York",
+          "city": {
+            "name": "Orlando"
+          },
+          "state": {
+            "name": "Florida",
+            "stateCode": "FL"
+          },
+          "country": {
+            "name": "United States Of America",
+            "countryCode": "US"
+          },
+          "address": {
+            "line1": "400 W Church St."
+          },
+          "location": {
+            "longitude": "-81.383957",
+            "latitude": "28.539293"
+          },
+          "markets": [
+            {
+              "name": "Orlando",
+              "id": "17"
+            }
+          ],
+          "dmas": [
+            {
+              "id": 351
+            }
+          ],
+          "social": {
+            "twitter": {
+              "handle": "@AmwayCenter"
+            }
+          },
+          "boxOfficeInfo": {
+            "phoneNumberDetail": "Venue information : 407.440.7900 Groups Sales: Amway Center events: 407.440.7900 Orlando Magic games: 407.896.2442, select \"2\".",
+            "openHoursDetail": "Hours of Operation: Monday - Friday / 9 a.m. - 3 p.m. Summer and holiday hours may apply.",
+            "acceptedPaymentDetail": "Cash, Visa, Mastercard, Discover, & American Express",
+            "willCallDetail": "To pick up tickets, a valid government-issued photo identification is required. Hours: Monday - Friday / 9 a.m. - 3 p.m. and three (3) hours prior to any event. Location: On Church Street (north side of venue)."
+          },
+          "accessibleSeatingDetail": "Wheelchair accessible and companion seats are available at locations dispersed throughout Amway Center, offering guests the choice of an array of prices, amenities and lines of sight. Seating locations vary depending on particular events. It is important to indicate when buying tickets if you require wheelchair accessible seating. Service animals are animals individually trained to do work or perform tasks for the benefit of an individual with a disability. Guests with disabilities are welcome to bring their service animals inside the Amway Center. Service animals may not use additional seats unless a ticket has been purchased for the adjacent seat, but may request accessible seating. Elevators : The Amway Center has fourteen (14) accessible public elavators available for all guests. Parking : Convenient accessible parking is located in the GEICO Garage, which is adjacent to the Amway Center and accessible via the pedestrian bridge on the Terrace Level (Level 3). Additional accessible parking is located in lot 9. There are also accessible parking spaces in surface lots and garages in the area surrounding the Amway Center. Visit amwaycenter.com for more information. Entrance : The Amway Center's main entrance is at the middle block of Church Street between Hughey Avenue and Division Avenue. Accessible entry is also available via the pedestrian bridge on the Terrace Level (Level 3).",
+          "generalInfo": {
+            "generalRule": "Items NOT Allowed: Use of video and/or audio recording equipment is strictly prohibited by event promoters, and the Amway Center reserves the right to confiscate any tape, film, or memory card. Items Allowed: Umbrellas are permitted inside the Amway Center. Umbrellas should be placed under your seat and out of the way of other guests. Please utilize the umbrella sleeves to help keep the floors dry. If necessary, guests may bring strollers to events at the Amway Center. Strollers must be collapsible and fit under your seat. You may not leave strollers in the walkways, gates, or concourses, and our staff will not be responsible for these items. The Amway Center is not responsible for any lost, stolen, or damaged strollers. Smoking is NOT permitted in the Amway Center SMOKING POLICY - ORLANDO VENUES Orlando Venues will allow re-entry for guests to go outside the venue in order to smoke in the designated area on the West side of the Amway Center. WHEN: Magic Games: Beginning at tip off guests can access the designated smoking area towards the Northwest side of the venue via the Disney Atrium. Concerts: When the Opening Act is onstage the guests can begin to access the smoking area towards the Northwest side of the venue via the Disney Atrium. Other Events: Beginning times are TBD depending on the setup of the show. WHERE: Guests can utilize the designated area for smoking by exiting out the Disney Atrium doors located on the west side of the Disney Atrium near the west elevators. Guests must remain at least 25 feet from the venue when smoking. WHEN EXITING: Guests must present their ticket stub to be scanned out and have their hand stamped before exiting the venue. No drinks are permitted to leave the building. WHEN RE-ENTERING: Upon re-entering the building the guests must present their ticket stub to be scanned in again as well as show the stamp on their hand before they re-enter the Amway Center. Guests must have both a ticket that can be scanned back in and a stamp on their hand in order to be allowed entry into the venue. Guests are subject to be searched again upon re-entering the venue. *Policy is subject to change per Orlando Venues Management.",
+            "childRule": "For Orlando Magic games, any patron who is 36 inches(3 feet) or taller must have a ticket for entry. For Amway Center events other than Orlando Magic games, all children two (2) years of age or older must possess a valid ticket for entry. A child under two (2) years of age, who is admitted free of charge for events, must sit on a patron’s lap. Occasionally, a family show (Disney of Ice, Globetrotters, Ringling Bros., etc.) will require children younger than two (2) years old to purchase a ticket. Please check with the box office or online for the show you are attending."
+          },
+          "upcomingEvents": {
+            "_total": 107,
+            "tmr": 1,
+            "ticketmaster": 106,
+            "_filtered": 0
+          },
+          "_links": {
+            "self": {
+              "href": "/discovery/v2/venues/KovZpZAEvEEA?locale=en-us"
+            }
+          }
+        }
+      ],
+      "attractions": [
+        {
+          "name": "Orlando Magic",
+          "type": "attraction",
+          "id": "K8vZ9171ov7",
+          "test": false,
+          "url": "https://www.ticketmaster.com/orlando-magic-tickets/artist/805995",
+          "locale": "en-us",
+          "externalLinks": {
+            "twitter": [
+              {
+                "url": "https://twitter.com/OrlandoMagic"
+              }
+            ],
+            "wiki": [
+              {
+                "url": "https://en.wikipedia.org/wiki/Orlando_Magic"
+              }
+            ],
+            "facebook": [
+              {
+                "url": "https://www.facebook.com/OrlandoMagic"
+              }
+            ],
+            "instagram": [
+              {
+                "url": "https://www.instagram.com/orlandomagic/"
+              }
+            ],
+            "homepage": [
+              {
+                "url": "https://www.nba.com/magic/"
+              }
+            ]
+          },
+          "images": [
+            {
+              "ratio": "3_2",
+              "url": "https://s1.ticketm.net/dam/a/512/fb748312-e0a4-455f-95e1-6fda0c1c1512_1339851_RETINA_PORTRAIT_3_2.jpg",
+              "width": 640,
+              "height": 427,
+              "fallback": false
+            },
+            {
+              "ratio": "16_9",
+              "url": "https://s1.ticketm.net/dam/a/512/fb748312-e0a4-455f-95e1-6fda0c1c1512_1339851_EVENT_DETAIL_PAGE_16_9.jpg",
+              "width": 205,
+              "height": 115,
+              "fallback": false
+            },
+            {
+              "ratio": "16_9",
+              "url": "https://s1.ticketm.net/dam/a/512/fb748312-e0a4-455f-95e1-6fda0c1c1512_1339851_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+              "width": 2048,
+              "height": 1152,
+              "fallback": false
+            },
+            {
+              "ratio": "3_2",
+              "url": "https://s1.ticketm.net/dam/a/512/fb748312-e0a4-455f-95e1-6fda0c1c1512_1339851_ARTIST_PAGE_3_2.jpg",
+              "width": 305,
+              "height": 203,
+              "fallback": false
+            },
+            {
+              "ratio": "3_2",
+              "url": "https://s1.ticketm.net/dam/a/512/fb748312-e0a4-455f-95e1-6fda0c1c1512_1339851_TABLET_LANDSCAPE_3_2.jpg",
+              "width": 1024,
+              "height": 683,
+              "fallback": false
+            },
+            {
+              "ratio": "4_3",
+              "url": "https://s1.ticketm.net/dam/a/512/fb748312-e0a4-455f-95e1-6fda0c1c1512_1339851_CUSTOM.jpg",
+              "width": 305,
+              "height": 225,
+              "fallback": false
+            },
+            {
+              "ratio": "16_9",
+              "url": "https://s1.ticketm.net/dam/a/512/fb748312-e0a4-455f-95e1-6fda0c1c1512_1339851_RETINA_PORTRAIT_16_9.jpg",
+              "width": 640,
+              "height": 360,
+              "fallback": false
+            },
+            {
+              "ratio": "16_9",
+              "url": "https://s1.ticketm.net/dam/a/512/fb748312-e0a4-455f-95e1-6fda0c1c1512_1339851_RECOMENDATION_16_9.jpg",
+              "width": 100,
+              "height": 56,
+              "fallback": false
+            },
+            {
+              "ratio": "16_9",
+              "url": "https://s1.ticketm.net/dam/a/512/fb748312-e0a4-455f-95e1-6fda0c1c1512_1339851_RETINA_LANDSCAPE_16_9.jpg",
+              "width": 1136,
+              "height": 639,
+              "fallback": false
+            },
+            {
+              "ratio": "16_9",
+              "url": "https://s1.ticketm.net/dam/a/512/fb748312-e0a4-455f-95e1-6fda0c1c1512_1339851_TABLET_LANDSCAPE_16_9.jpg",
+              "width": 1024,
+              "height": 576,
+              "fallback": false
+            }
+          ],
+          "classifications": [
+            {
+              "primary": true,
+              "segment": {
+                "id": "KZFzniwnSyZfZ7v7nE",
+                "name": "Sports"
+              },
+              "genre": {
+                "id": "KnvZfZ7vAde",
+                "name": "Basketball"
+              },
+              "subGenre": {
+                "id": "KZazBEonSMnZfZ7vFJA",
+                "name": "NBA"
+              },
+              "type": {
+                "id": "KZAyXgnZfZ7v7l1",
+                "name": "Group"
+              },
+              "subType": {
+                "id": "KZFzBErXgnZfZ7vA7d",
+                "name": "Team"
+              },
+              "family": false
+            }
+          ],
+          "upcomingEvents": {
+            "_total": 82,
+            "tmr": 8,
+            "ticketmaster": 74,
+            "_filtered": 0
+          },
+          "_links": {
+            "self": {
+              "href": "/discovery/v2/attractions/K8vZ9171ov7?locale=en-us"
+            }
+          }
+        },
+        {
+          "name": "Phoenix Suns",
+          "type": "attraction",
+          "id": "K8vZ9171oZf",
+          "test": false,
+          "url": "https://www.ticketmaster.com/phoenix-suns-tickets/artist/806004",
+          "locale": "en-us",
+          "externalLinks": {
+            "twitter": [
+              {
+                "url": "https://twitter.com/Suns"
+              }
+            ],
+            "wiki": [
+              {
+                "url": "https://en.wikipedia.org/wiki/Phoenix_Suns"
+              }
+            ],
+            "facebook": [
+              {
+                "url": "https://www.facebook.com/suns/"
+              }
+            ],
+            "instagram": [
+              {
+                "url": "https://www.instagram.com/suns/"
+              }
+            ],
+            "homepage": [
+              {
+                "url": "https://www.nba.com/suns/"
+              }
+            ]
+          },
+          "aliases": [
+            "phoenix",
+            "suns",
+            "phoenix suns exchange",
+            "phoenix suns team exchange",
+            "phoenix suns season ticket holders",
+            "phoenix suns season tix holders",
+            "phoenix suns ticket exchange",
+            "suns exchange",
+            "suns season ticket holders",
+            "suns season tix holders",
+            "suns team exchange",
+            "suns ticket exchange"
+          ],
+          "images": [
+            {
+              "ratio": "4_3",
+              "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_CUSTOM.jpg",
+              "width": 305,
+              "height": 225,
+              "fallback": false
+            },
+            {
+              "ratio": "16_9",
+              "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_RETINA_PORTRAIT_16_9.jpg",
+              "width": 640,
+              "height": 360,
+              "fallback": false
+            },
+            {
+              "ratio": "16_9",
+              "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+              "width": 2048,
+              "height": 1152,
+              "fallback": false
+            },
+            {
+              "ratio": "16_9",
+              "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_EVENT_DETAIL_PAGE_16_9.jpg",
+              "width": 205,
+              "height": 115,
+              "fallback": false
+            },
+            {
+              "ratio": "3_2",
+              "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_ARTIST_PAGE_3_2.jpg",
+              "width": 305,
+              "height": 203,
+              "fallback": false
+            },
+            {
+              "ratio": "16_9",
+              "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_TABLET_LANDSCAPE_16_9.jpg",
+              "width": 1024,
+              "height": 576,
+              "fallback": false
+            },
+            {
+              "ratio": "3_2",
+              "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_RETINA_PORTRAIT_3_2.jpg",
+              "width": 640,
+              "height": 427,
+              "fallback": false
+            },
+            {
+              "ratio": "3_2",
+              "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_TABLET_LANDSCAPE_3_2.jpg",
+              "width": 1024,
+              "height": 683,
+              "fallback": false
+            },
+            {
+              "ratio": "16_9",
+              "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_RETINA_LANDSCAPE_16_9.jpg",
+              "width": 1136,
+              "height": 639,
+              "fallback": false
+            },
+            {
+              "ratio": "16_9",
+              "url": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_RECOMENDATION_16_9.jpg",
+              "width": 100,
+              "height": 56,
+              "fallback": false
+            }
+          ],
+          "classifications": [
+            {
+              "primary": true,
+              "segment": {
+                "id": "KZFzniwnSyZfZ7v7nE",
+                "name": "Sports"
+              },
+              "genre": {
+                "id": "KnvZfZ7vAde",
+                "name": "Basketball"
+              },
+              "subGenre": {
+                "id": "KZazBEonSMnZfZ7vFJA",
+                "name": "NBA"
+              },
+              "type": {
+                "id": "KZAyXgnZfZ7v7l1",
+                "name": "Group"
+              },
+              "subType": {
+                "id": "KZFzBErXgnZfZ7vA7d",
+                "name": "Team"
+              },
+              "family": false
+            }
+          ],
+          "upcomingEvents": {
+            "_total": 82,
+            "tmr": 9,
+            "ticketmaster": 73,
+            "_filtered": 0
+          },
+          "_links": {
+            "self": {
+              "href": "/discovery/v2/attractions/K8vZ9171oZf?locale=en-us"
+            }
+          }
+        }
+      ]
+    }
+  }
+]
